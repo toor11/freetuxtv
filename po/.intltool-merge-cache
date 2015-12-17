@@ -1,0 +1,848 @@
+deFullscreen modeVollbildzh_CN<b>Destination</b><b>目标</b>zh_TWBob擺動ltUse the VLC configuration fileNaudoti VLC konfigūracijos failąfrSwedish Web TV and RadioSuédois : WebTV et WebRadiofr++zh_CNError when deleting the channel "%s".
+
+SQLite has returned error:
+%s.删除频道 "%s" 出错。
+
+SQLite 返回错误:
+%s.frWeb TV (Macedonian)Web TV (Macédonienne)trRecordingsKayıtlarruPredefined transcoding formatsВыбрать формат кодированияzh_TWCatalan Web TV and Radio加泰羅尼亞語網路電視與電台trPlease enter the group's name !Lütfen liste adı yazın !frRequired ISPFAI requisruCustom channels groupДругой список каналовtrDeinterlacement:Görüntü ayrıştırma:trStopping channel: %s%s kanalı durduruluyorzh_TW<b>Special group type:</b><b>特殊群組類別:</b>zh_TWText or regexp which must be deleted at the beginning of the channel's name頻道名稱開頭必須刪除的文字或正規表示式trProxy server:Vekil sunucu:pt_Help_AjudafrPrevious channelChaîne précédenteplExisting channels groupIstniejące grupy kanałówru_Deinterlace_Устранение чересстрочностиltNew groupNauja grupėfrRomanian Web TV and RadioRoumain : WebTV et WebRadioltDownloading the file '%s'Atsiunčiamas failas „%s“ru<b>Channel VLC options:</b><b>VLC параметры канала:</b>zh_TWWeb TV (Russian)網路電視 (俄語)zh_TWError when adding the tv channel '%s'.
+
+SQLite has returned error:
+%s.加入電視頻道『%s』發生錯誤。
+
+SQLite 回傳錯誤:
+%s。trWeb TV (Russian)Genelağ Televizyonu (Rusça)zh_CNWeb TV (German)网络电视 (德语)ltAn error occurred while playing channel '%s' : %s
+
+If the problem persist, you can report that the link is dead at %sAtkuriant kanalą „%s“ įvyko klaida: %s
+
+Jei problema išlieka, jog nuoroda nebeveikia į %szh_CNLanguages/Channels group语言/频道组frBengali/Bangla Web TV and RadioBengali/Bangla : WebTV et WebRadiofrGeorgian Web TV and RadioGéorgien : WebTV et WebRadiotrName of the group which will be addedEklenecek liste adızh_CNSearch:搜索:zh_CN_Channels频道(_C)zh_TW<b>Transcoding options</b><b>轉碼選項</b>zh_CNText or regexp which must be deleted at the end of the channel's name频道名称末尾必须删除的文本或正则表达式deWeb TV (Persian)Internet-TV (persisch)ltUpdating TV channel: %sAtnaujinami tv kanalai: %strDetailsAyrıntılarzh_CNChannels' search text area频道搜索文本域deEnglish Web TV and RadioEnglisches Web TV und RadioruNo proxyНет прокси сервераru<b>Startup</b><b>Запуск</b>zh_TWnone無ltSlovenian Web TV and RadioSlovėnijos Internetinė televizija ir radijaltError when updating the channels of the group "%s".
+
+SQLite has returned error:
+%s.Klaida atnaujinant grupės „%s“ kanalus.
+
+SQLite grąžino klaidą:
+%s.zh_CNWeb TV (Turkish)网络电视 (土耳其语)ruFreetuxTV Television Channels PlayerFreetuxTV Приложение для просмотра и записи ТВ-каналовfrSelected channel:Chaîne séléctionné:zh_CN<b>Processing of channels' name</b><b>正在处理频道名称</b>deJump to current channelGehe zum aktuellen KanalfrLanguages/Channels groupGroupe Langues/Chaîneszh_TWWeb Radio (Arabic)網路電台 (阿拉伯語)trUse the VLC configuration fileVLC yapılandırma dosyasınu kullanzh_CNChannel properties频道属性ltJump to current channelPeršokti į esamą kanaląltWeb TV (Bulgarian)Internetinė televizija (Bulgarų)frDuration:Durée :esis recordingestá grabandoruminutesминут(ы)zh_CNText or regexp which must be deleted at the beginning of the channel's name频道名称开头必须删除的文本或正则表达式frHebrew Web TV and RadioHébreu : WebTV et WebRadiofrWeb TV (Hindi)Web TV (Hindi)frKorean Web TV and RadioCoréen : WebTV et WebRadiozh_TWPredefined transcoding formats預定義的轉碼格式dePersian Web TV and RadioPersisches Web TV und RadioesWeb Radio (Spanish)Radio Web (Español)zh_CNIgnore diacritics忽略变音符esPlay last channel on startupReproducir último canal en iniciarzh_CNGroup properties组属性ltWeb TV (Vietnamese)Internetinė televizija (Vietnamese)trDelete this text behind the name:Addan sonraki şu metni sil:zh_CNSFR TV (Unofficial)SFR TV (非官方)ltIndonesian Web TV and RadioIndonezijos Internetinė televizija ir radijasfrNumber of channels:Nombre de chaînes :frGNU General Public License v3GNU General Public License v3zh_TWPlease enter the group's URI !請輸入群組 URI !fr<i>Restart the application after changing this option.</i><i>Redémarrer l'application après avoir changé cette option.</i>ltDutch Web TV and RadioOlandų Internetinė televizija ir radijaszh_TWSelect a directory選擇目錄de%02d:%02d:%02d%02d:%02d:%02dzh_CNAdding channels groups正在添加频道组ltPortuguese Web TV and RadioPortugalijos Internetinė televizija ir radijaes<b>Special group type:</b><b>Tipo de grupo especial:</b>zh_CNChannel's URI:频道 URI:zh_TWJapanese Web TV and Radio日語網路電視與電台frWeb Radio (Russian)Web Radio (Russe)ltWeb Radio (German)Interneto radijo (Vokiečių kalba)frGeneralGénéralzh_CNURIURIzh_TW%m/%d/%Y %H:%M%m/%d/%Y %H:%MdeSlovak Web TV and RadioSlovakisches Web TV und RadioesPlaying: %sReproduciendo: %sltAdding channels group: <i>%s</i>Pridedamos kanalų grupės: <i>%s</i>ltWeb TV (Uzbek)Internetinė televizija (Uzbek)ru%m/%d/%y%m/%d/%yltGeneralBendrazh_TWRequired ISP所需 ISPltGetting the file: "%s"Gaunamas failas: „%s“deWeb TV (Romanian)Internet-TV (rumänisch)zh_TWError when updating the position of the groups.
+
+SQLite has returned error:
+%s.更新群組的位置發生錯誤。
+
+SQLite 回傳錯誤:
+%s。zh_TWNone無zh_CN%1.1f GB%1.1f GBfrDeinterlacement:Désentrelacement :ruPlay last channel on startupВключать последний просмотренный канал при запуске программыzh_TWNorwegian Web TV and Radio挪威語網路電視與電台frStop playing the current channelArrêter la lecture de la chaîne en coursfrNo proxyAucun proxytr<b>Processing of channels' name</b><b>Kanalların adının işlenmesi</b>zh_TWWeb Radio (English)網路電台 (英語)ltWeb Cam (Spanish)Interneto kamera (Ispanų)frError when linking the TV channel '%s' to channel.
+
+SQLite has returned error:
+%s.Erreur lors de l'association de la chaîne TV '%s' à la chaîne.
+
+SQLite a retourné l'erreur :
+%s.frWeb Cam (Polish)Webcam (Polonais)ruRecordingsВидеозаписиfrError when updating the position of the groups.
+
+SQLite has returned error:
+%s.La mise à jour de la position des groupes a échoué.
+
+SQLite a retourné l'erreur :
+%s.lthttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmlhttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmldeProxy port:Proxy Port: frAfrikaans Web TV and RadioAfrikaans : WebTV et WebRadioltWeb Radio (Macedonian)Interneto radijo (Makedonijos)zh_TWVideo - Theora + Vorbis (OGG)視訊 - Theora + Vorbis (OGG)deChannel's name:Sendername:ltWeb Radio (No lang)Internetinė radija (be kalbos)zh_TWFreetuxTVFreetuxTVltNo lang Web TV and RadioInternetinės televizijos ir radijas be kalboszh_CNUsername:用户名:trSpecial groupÖzel listefrTelevision Channels PlayerLecteur de chaînes de télévisiondeManual proxy configurationManuelle Proxykonfigurationzh_CNVideo - Theora + Vorbis (OGG)视频 - Theora + Vorbis (OGG)deKorean Web TV and RadioKoreanisches Web TV und Radioltis recordingįrašinėjamaplSpecial groupGrupa specjalnalt%1.1f MB%1.1f MBzh_CNNetwork网络ltvcodec=theo,vb=800,scale=1,acodec=vorb,ab=128,channels=2vcodec=theo,vb=800,scale=1,acodec=vorb,ab=128,channels=2frArabic Web TV and RadioArabe : WebTV et WebRadioltAdding channels groupsPridedamos kanalų grupėsltError when adding the recording '%s'.
+
+SQLite has returned error:
+%s.Klaida pridedant įrašą „%s“.
+
+SQLite grąžino klaidą:
+%s.zh_CNEnd time:终止时间:frWeb Radio (Portuguese)Web Radio (Portugais)ltWeb Cam (English)Interneto kamera (Anglų k.)deExisting channels groupBestehende SendergruppetrUsername:Kullanıcı adı:zh_TWPlaylist's URI of the group which will be added將加入群組的播放清單 URIzh_TWDutch Web TV and Radio荷蘭語網路電視與電台deWeb Radio (Catalan)Internetradio (katalanisch)ltChannel propertiesKanalo savybėsfrUse authentificationUtiliser l'authentificationltMuteNutildytiruWeb TV (Russian)Интернет ТВ (Русскоязычные каналы)trStop playing the current channelSeçili kanalı izlemeyi durdurzh_TWWeb Radio (Russian)網路電台 (俄語)esProxy type:Tipo Proxy:ltWeb Radio (Russian)Web Radijas (Rusų k.)zh_CNWeb TV (French)网络电视 (法语)ltLanguages/Channels groupKalbos/Kanalų grupėruLanguages/Channels groupЯзык/Список каналовzh_TWSpecial group特殊群組zh_TWWeb TV (Arabic)網路電視 (阿拉伯語)zh_CNGetting the file: "%s"正在获取文件: "%s"ru_Synchronize TV channels database_Синхронизировать базу данных с каналамиfrNorwegian Web TV and RadioNorvégien : WebTV et WebRadiotrChannels groups file:Kanalların liste dosyası:zh_CNPlay the current channel播放当前频道zh_CNRecording: %s正在录制: %sfrWeb TV (Spanish)Web TV (Espagnol)fr%1.1f GB%1.1f GoltWebCamInternetinė kameraltWeb TV (Norwegian)Internetinė televizija (Norvegų kalba)trPlease enter the group's URI !Lütfen listenin bulunağını yazın !frCambodian Web TV and RadioCambodgien : WebTV et WebRadiofrError when getting the channel by name.
+
+SQLite has returned error:
+%s.La récupération de la chaîne par nom a échoué.
+
+SQLite a retourné l'erreur :
+%s.frRecord the current channelEnregistre la chaîne en coursfrMoldavian Web TV and RadioMoldave : WebTV et WebRadioesDelete the search text areaBorrar el texto del área de búsquedafrLoading the list of recordings...Chargement de la liste des enregistrements...trWeb Programmes (English)Genelağ Programları (İngilizce)trLoading the list of recordings...Kayıt listesi yükleniyor...devcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2vcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2ruSmall modeКомпактный режим проигрывателяzh_CNSpanish Web TV and Radio西班牙语网络电视与电台zh_TWSlovak Web TV and Radio斯洛伐克語網路電視與電台ru<b>Destination</b><b>Место назначения</b>frError when updating the group "%s".
+
+SQLite has returned error:
+%s.La mise à jour du groupe "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.zh_CNvcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2vcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2deFreetuxTVFreetuxTVltVideo - MPEG-2 + MPGA (TS)Video - MPEG-2 + MPGA (TS)frWeb TV (Urdu)Web TV (Ourdou)trDirectory Record:Kayıt Dizini:zh_CNError when deleting the group "%s".
+
+SQLite has returned error:
+%s.删除组 "%s" 出错。
+
+SQLite 返回错误:
+%s.zh_CNHungarian Web TV and Radio匈牙利语网络电视与电台frCroatian Web TV and RadioCroate : WebTV et WebRadiopt00:00:0000:00:00ltError when migrating the database.
+
+SQLite has returned error:
+%s.Klaida migruojant duomenų bazę.
+
+SQLite grąžino klaidą:
+%s.zh_CNNext channel下一频道frWeb Radio (French)Web Radio (Français)frDownloading the file '%s'Récupération du fichier '%s'zh_CN<b>Notifications</b><b>通知</b>zh_TWoggoggltPlay last channel on startupPaleidžiant atkurti paskutinį kanalązh_CNWeb TV (Latin)网络电视 (拉丁语)zh_CNGeneral常规zh_TWAn error occurred while playing channel '%s' : %s
+
+If the problem persist, you can report that the link is dead at %s播放頻道『%s』時發生錯誤: %s
+
+如果問題持續出現，您可以到 %s 報告死鏈ltLatvian/Lettish Web TV and RadioLatvijos / latvių Internetinė televizija ir radijaszh_TWWeb TV (Hungarian)網路電視 (匈牙利語)frDelete this text behind the name:Texte à enlever à la fin :zh_TWIn progress正在進行zh_TWProxy server:代理伺服器:trFormat:Biçim:frWeb Radio (Arabic)Web Radio (Arabe)ruAn error occurredПроизошла ошибкаltGNU General Public License v3GNU bendroji viešoji licencija, 3 versijazh_CNRecordings录像trPlease select a least one group !Lütfen en az bir liste seçin !zh_CNKorean Web TV and Radio朝鲜语网络电视与电台frWeb TV (Malay)Web TV (Malais)zh_TWSynchronizing the list of tv channels...正在同步電視頻道清單…ruPlease select a least one group !Пожалуйста выделите как минимум один список!zh_TWError when updating the database version.
+
+SQLite has returned error:
+%s.更新資料庫版本發生錯誤。
+
+SQLite 回傳錯誤:
+%s。ltError when adding the tv channel '%s'.
+
+SQLite has returned error:
+%s.Klaida pridedant tv kanalą „%s“.
+
+SQLite grąžino klaidą:
+%s.ru%1.1f MB%1.1f МбltError when deleting the tv channels list.
+
+SQLite has returned error:
+%s.Klaida šalinant tv kanalų sąrašą.
+
+SQLite grąžino klaidą:
+%s.zh_CNSOCKSSOCKSfrHindi Web TV and RadioHindi : WebTV et WebRadiofrDisableDésactiverlt%d channels group(s) have been successfully added.%d kanalų grupė (-ės) sėkmingai pridėtos.zh_CNError when updating the position of the channels in group "%s".
+
+SQLite has returned error:
+%s.更新组 "%s" 中频道位置出错。
+
+SQLite 返回错误:
+%s.zh_CNError when updating the database version.
+
+SQLite has returned error:
+%s.更新数据库版本出错。
+
+SQLite 返回错误:
+%s.trDownload timeout (seconds) :İndirme zamanaşımı (sâniye) :ltWeb TV (Polish)Internetinė televizija (Lenkų)ruNew groupНовый списокzh_TWWeb TV (Dutch)網路電視 (荷蘭語)trDuration:Süre:ruPreferencesНастройкиltMalay Web TV and RadioMalajų Internetinė televizija ir radijasltWeb TV (Hindi)Internetinė televizija (Hindi)esJump to current channelSaltar al canal actualdeTurkish Web TV and RadioTürkisches Web TV und Radiozh_TW%d channels group(s) have been successfully added.%d 頻道群組已成功加入。ruGo to the current channel playingВыделить текущий просматриваемый каналdeYou can easily use regular expressions to delete some text in the channel's name of the groupe. For example, if in your playlist, you have a name like "11 - NT1" or "12 - NRJ 12", FreetuxTV is able to remove the channel's number before the name, by using the regular expression "[0-9]* - ".Sie können reguläre Ausdrücke benutzen, um Text im Sendernamen einer Gruppe zu löschen. Wenn Sie z.B. einen Sender in Ihrer Playlist haben, der"11 - NT1" oder "12 - NRJ 12" heißt, kann FreetuxTV die Nummer des Senders vor dem Namen entfernen, indem man reguläre Ausdrücke "[0-9]* - " nutzt.deVideo - Theora + Vorbis (OGG)Video - Theora + Vorbis (OGG)zh_CNWeb Radio (No lang)网络电台 (无语言归类)frWeb TV (Ukrainian)Web TV (Ukrainien)trBobTitretlt<b>Destination</b><b>Paskirties vieta</b>trError when getting the channel.
+
+SQLite has returned error:
+%s.Kanal yüklenirken hatâ oluştu.
+
+SQLite hatâ bildirdi:
+%s.zh_TWPreferences偏好設定frRecording: %s (%s) -> %s (%s)En cours d'enregistrement : %s (%s) -> %s (%s)fr channels chaînesfr<b>Notifications</b><b>Notifications</b>frVietnamese Web TV and RadioVietnamien : WebTV et WebRadioltText or regexp which must be deleted at the end of the channel's nameKanalo pavadinimo pabaigoje tekstas ar regexp išraiška kuri turi būti pašalintazh_TWItalian Web TV and Radio義大利語網路電視與電台trGroup propertiesListe özelliklerizh_CNHTTPHTTPtrWeb TV channels playerGenelağ TV kanalları oynatıcısızh_TWSpanish Web TV and Radio西班牙語網路電視與電台frLinearLinéairefrError when migrating the database.
+
+SQLite has returned error:
+%s.La migration de la base de donnée a échoué.
+
+SQLite a retourné l'erreur :
+%s.deWeb TV (Japanese)Internet-TV (japanisch)frSOCKSSOCKSzh_CNDelete this text before the name:删除名称前的这些文字:zh_CNFormat:格式:zh_CNnone无frPassword:Mot de passezh_CNError when updating the channels of the group "%s".
+
+SQLite has returned error:
+%s.更新组 "%s" 内频道出错。
+
+SQLite 返回错误:
+%s.ruAdding channels group: <i>%s</i>Добавление списка : <i>%s</i>tr<b>Channel VLC options:</b><b>Kanal VLC seçenekleri:</b>trWeb TV (Czech)Genelağ Televizyonu (Çekçe)zh_TWHTTPHTTPfrProxy server:Serveur proxy:zh_CNDirectory Record:录制目录:zh_TWProxy type:代理類型:ltWeb TV (Estonian)Internetinė televizija (Estų)de_Help_Hilfezh_TWDirectory Record:錄製目錄:zh_TWWeb TV (Norwegian)網路電視 (挪威語)frSerbo-Croatian Web TV and RadioSerbo-croate : WebTV et WebRadiozh_TWFreetuxTV Television Channels PlayerFreetuxTV 電視頻道播放器lt<b>Startup</b><b>Paleidimas</b>zh_CNError when updating the group "%s".
+
+SQLite has returned error:
+%s.更新组 "%s" 出错。
+
+SQLite 返回错误:
+%s.ruSynchronizing the list of tv channels...Синхронизируется список каналов...ltGroup's name:Grupės pavadinimas:zh_TWChannel's URI:頻道 URI:fr<b>Configuration file (vlcrc)</b><b>Fichier de configuration (vlcrc)</b>ltTurkish Web TV and RadioTurkijos Internetinė televizija ir radijafrWeb TV (Greek)Web TV (Grec)ltSynchronizing the list of tv channels: %s...Sinchronizuojamas tv kanalų sąrašas: %s...zh_CNWeb Radio (Arabic)网络电台 (阿拉伯语)zh_CNXXfrSearch:Recherche :frAdd a group_Ajouter un groupezh_TWGroup properties群組屬性frWeb Radio (Hebrew)Web Radio (Hébreu)frWeb Radio (Macedonian)Web Radio (Macédonienne)ruFormat:Формат:esExisting channels groupGrupo existente de canalesfrhttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmlhttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmldeWeb Radio (Italian)Internetradio (italienisch)zh_CNCustom channels group自定义频道组ltMaltese Web TV and RadioMaltos Internetinė televizija ir radijasfrDo you want to move the related file on the hard disk to the trash?Voulez-vous déplacer le fichier correspondant du disque dur vers la poubelle?fr%m/%d/%Y %H:%M%d/%m/%Y %H:%Mzh_TW%m/%d/%Y%m/%d/%Yfr_Video_VidéoltStop playing the current channelSustabdyti dabartinio kanalo atkūrimątrWeb Radio (Italian)Genelağ Radyosu (İtalyanca)esManual proxy configurationConfiguración manual del proxydeBobBobtrtranslator-creditsŞâkir Aşçı <sakirasci@gmail.com>esAre you sure you want to quit?Estás seguro que quieres salir?zh_TW_Help求助(_H)ltWeb TV (Ukrainian)Internetinė televizija (Ukrainiečių)lt<b>Notifications</b><b>Pranešimai</b>frProxy type:Type de proxy:zh_TWWeb TV (Thai)網路電視 (泰語)zh_TWNo proxy無代理zh_TWWeb Radio (Italian)網路電台 (義大利語)trnoneyokfrWeb TV (French)Web TV (Français)ltWeb TV (Greek)Internetinė televizija (Graikų)zh_TWDisable停用ruChannels' search text areaПоле для поиска канала (по совпадению текста из названия)frWeb Radio (Italian)Web Radio (Italien)de<b>Notifications</b><b>Mitteilungen</b>trNew groupYeni listeruStopping channel: %sОстановка канала: %strNo lang Web TV and RadioDil Ayrımsız Genelağ TV ve Radyolarıesnoneningunazh_CNLibVLCLibVLCdeWeb TV channels playerWeb TV PlayerltWeb TV (Slovak)Internetinė televizija (Slovakijos)frError when deleting the tv channels list.
+
+SQLite has returned error:
+%s.La suppression de la liste de chaînes TV a échoué.
+
+SQLite a retourné l'erreur :
+%s.ltMalayalam Web TV and RadioMalajalių Internetinė televizija ir radijaszh_CNThai Web TV and Radio泰语网络电视与电台ltWeb Radio (Portuguese)Interneto radijo (Portugalų)plUsername:Nazwa użytkownika:ltWeb Radio (Irish)Interneto radijo (Airija)trFavouritesGözdelerruAdd a recordingДобавить записьltWeb Radio (Slovenian)Internetinė radija (Slovėnų)frStart time:Heure de début :esDiscardCancelarruExisting channels groupГотовые списки каналовzh_TWWatch television channels from internet在網上觀看電視頻道plChannel propertiesWłaściwości kanałuzh_TW<b>Destination</b><b>目標</b>ltTurkmen Web TV and RadioTurkmėnų Internetinė televizija ir radijaszh_CNChannels groups file:频道组文件:zh_CNWeb TV (Portuguese)网络电视 (葡萄牙语)ruGroup's name:Название спискаfrFreetuxTVFreetuxTVtrSelected channel:Seçilen kanal:frWeb TV (Hebrew)Web TV (Hébreu)pt<b>Notifications</b><b>Notificações</b>trWebCamAğ KamerasıesProxy server:Servidor Proxy:trError when deleting the group "%s".
+
+SQLite has returned error:
+%s."%s" listesi silinirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.zh_TWPassword:密碼:zh_CNTitle:标题:frMongolian Web TV and RadioMongol : WebTV et WebRadioes<i>Restart the application after changing this option.</i><i>Reinicia la aplicación después de hacer cambios.</i>zh_TW%ld bytes%ld 位元組frAmharic Web TV and RadioAmharique : WebTV et WebRadiozh_CNDetails详细信息trGroup's name:Liste adı:zh_CNWeb TV (Spanish)网络电视 (西班牙语)zh_CNWeb Radio (French)网络电台 (法语)deis recordingnimmt aufzh_TWLoading user configuration...正在載入使用者配置…zh_TWGreek Web TV and Radio希臘語網路電視與電台frSynchronizing the tv channels listSynchronisation de la liste des chaînes TVtr%ld byte%ld bayttrError when adding the channel "%s".
+
+SQLite has returned error:
+%s."%s" kanalı eklenirken hatâ oluştu.
+
+SQLite hatâ bildirdi:
+%s.frUrdu Web TV and RadioOurdou : WebTV et WebRadiotrTitle:Başlık:zh_TWWeb Radio (Spanish)網路電台 (西班牙語)zh_TWWebCam攝影機frIcelandic Web TV and RadioIslandais : WebTV et WebRadioltLoading the list of recordings...Įkeliamas įrašų sąrašas...zh_CN%d channels group(s) have been successfully added.%d 频道组已成功添加。esDisableDesactivarzh_CN%ld bytes%ld 字节ruWatch television channels from internetПросмотр и запись ТВ -каналов онлайнptCustom channels groupGrupos de canais personalizadoszh_CNoggoggfrWeb Radio (Serbian)Web Radio (Serbe)frStopping channel: %sArrêt de la chaîne : %szh_TWLatin Web TV and Radio拉丁語網路電視與電台frCannot open database.
+
+SQLite has returned error:
+%s.Impossible d'ouvrir la base de données.
+
+SQLite a retourné l'erreur :
+%s.ruDownload timeout (seconds) :Максимальное время ожидания загрузки канала (в секундах):ltWeb TV (Latin)Internetinė televizija (Lotynų)zh_TW00:00:0000:00:00ru channels канала(ов)lt<b>Special group type:</b><b>Specialios grupės tipas:</b>ltAmharic Web TV and RadioAmharų Internetinė televizija ir radijastrWeb TV (Slovak)Genelağ Televizyonu (Slovakça)zh_CN<b>Proxy</b><b>代理</b>ltRecording: %sĮrašoma: %szh_TWActivate/Deactivate the window always on top啟用/停用視窗總在最上層frKurdish Web TV and RadioKurde : WebTV et WebRadiofrWeb Radio (Hindi)Web Radio (Hindi)frWeb TV (German)Web TV (Allemand)deNew groupNeue Grupperu<b>Transcoding options</b><b>Настройки перекодирования</b>trSwedish Web TV and Radioİsveççe Genelağ TV ve RadyolarıdeUsername:Benutzername:trvcodec=theo,vb=800,scale=1,acodec=vorb,ab=128,channels=2vcodec=theo,vb=800,scale=1,acodec=vorb,ab=128,channels=2frWeb TV (Swedish)Web TV (Suédois)zh_CNNo transcoding无转码zh_CNLinear线性ruDisableОтключитьdeProxy server:Proxy Server: trWeb TV (Thai)Genelağ Televizyonu (Tayca)ltURIURItrError when deleting the channels of the group "%s".
+
+SQLite has returned error:
+%s."%s" listesinin kanalları silinirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.ruManual proxy configurationНастроить прокси вручнуюfrWeb TV (Latin)Web TV (Latin)zh_CNFreetuxTV Television Channels PlayerFreetuxTV 电视频道播放器plPreferencesPreferencjefrWeb TV (Hungarian)Web TV (Hongrois)ltWeb TV (Serbian)Internetinė televizija (Serbijos)frView fileVoir le fichierltUse authentificationNaudoti tapatybės nustatymązh_TWError when updating the channel "%s".
+
+SQLite has returned error:
+%s.更新頻道「%s」時發生錯誤。
+
+SQLite 回傳錯誤:
+%s。ruLoading user configuration...Загружаются настройки пользователя...deArabic Web TV and RadioArabisches Web TV und RadiofrError when updating the database version.
+
+SQLite has returned error:
+%s.La mise à jour de la base de donnée a échoué.
+
+SQLite a retourné l'erreur :
+%s.zh_CNDuration:时长:trWeb Radio (Arabic)Genelağ Radyosu (Arapça)trvcodec=mp2v,vb=800,scale=1,acodec=mpga,ab=128,channels=2vcodec=mp2v,vb=800,scale=1,acodec=mpga,ab=128,channels=2ltWeb Radio (Croatian)Interneto radijo (Kroatų)frTitle:Titre :frError when updating the last update date of the group "%s".
+
+SQLite has returned error:
+%s.La mise à jour de la date de dernière mise à jour du groupe "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.zh_TWGo back to the normal mode回傳一般模式frChannelsChaînesfr_FreetuxTV_FreetuxTVplChannel's name:Nazwa kanałufrWeb TV (Cambodian)Web TV (Cambodgien)zh_CNActivate/Deactivate the window always on top启用/禁用窗口总在最前fr00:00:0000:00:00zh_TWError when updating the status of the recording "%s".
+
+SQLite has returned error:
+%s.更新錄製「%s」狀態時發生錯誤。
+
+SQLite 回傳錯誤:
+%s。tr<b>Proxy</b><b>Vekil Sunucu</b>ltAdd to favouritesPridėti į mėgstamustrProxy port:Vekil sunucu bağlantı noktası:fr%02dh%02dm%02ds%02dh%02dm%02dstrTerminatedDurdurulanlarzh_TW<b>Processing of channels' name</b><b>正在處理頻道名稱</b>deProxy type:Proxy Typ: zh_CNPlay last channel on startup启动时播放上次播放的频道plFavouritesUlubioneesUpdate "%s" channels listActualizando "%s" lista de canalesltWeb TV (Hungarian)Internetinė televizija (Vengrijos)ltUkrainian Web TV and RadioUkrainos Internetinė televizija ir radijadeSFR TV (Unofficial)SFR TV (inoffiziell)zh_CNWatch television channels from internet在网上观看电视频道lt channels kanalailtNoneJoksfris playingest en cours de lecturedeWeb TV (Turkish)Internet-TV (türkisch)frWeb TV (Georgian)Web TV (Géorgien)zh_CNGo to the current channel playing转到当前正在播放的频道lt%1.1f kB%1.1f kBlt<b>Recording period</b><b>Įrašymo laikotarpis</b>zh_CNError when adding the channels.
+
+M3UParser has returned error:
+%s.添加频道出错。
+
+M3U 解析器返回错误:
+%s.ruUse the VLC configuration fileИспользовать файл конфигурации VLCesAn error occurredOcurrió un errorfrWeb Cam (Spanish)Webcam (Espagnol)ltWeb Programmes (Spanish)Interneto programos (Ispanų)zh_CNLatin Web TV and Radio拉丁语网络电视与电台ruView fileПосмотреть файлzh_TW<i>Restart the application after changing this option.</i><i>變更此選項後請重新啟動程式。</i>plAdd a groupDodaj grupęes_Help_AyudaesAdd a recordingAgregar una grabacióntrDiscardBozzh_CNSmall mode最简模式zh_CNtstszh_TWView file檢視檔案frHTTPHTTPzh_TWNo lang Web TV and Radio無語言網路電視與電台ptChannelsCanaiszh_CN%02d:%02d:%02d%02d:%02d:%02druDirectory Record:Каталог для записи:zh_TWWeb TV (German)網路電視 (德語)zh_CN<b>Configuration file (vlcrc)</b><b>配置文件 (vlcrc)</b>tr_Channels_KanallartrFreetuxTV Television Channels PlayerFreetuxTV Televizyon Kanalı OynatıcıltError when updating the channel "%s".
+
+SQLite has returned error:
+%s.Klaida atnaujinant kanalą „%s“.
+
+SQLite grąžino klaidą:
+%s.ltWeb TV (Swedish)Internetinė televizija (Švedų kalba)esIn progressEn progresozh_TWDuration:時間:ltNorwegian Web TV and RadioNorvegijos Internetinė televizija ir radijazh_TWNetwork網路trWeb Radio (French)Genelağ Radyosu (Fransızca)deRomanian Web TV and RadioRumänisches Web TV und RadiofrDelete this text before the name:Texte à enlever au début :lt_HelpŽ_inynasesGroup propertiesPropiedades del grupozh_CNSynchronizing the tv channels list正在同步电视频道列表deWeb Radio (Arabic)Internetradio (arabisch)frIgnore diacriticsIgnorer les diacritiquesesPlease select a least one group !Por favor selecciona al menos 1 grupo !trRecording: %sKaydediliyor: %strLoading the list of channels...Kanal listesi yükleniyor...zh_TWDelete this text before the name:刪除名稱前的這些文字:ltName of the group which will be addedPridedamos grupės pavadinimasruDelete group's channelsУдалить содержимое спискаfrminutesminutesdeVideo - H.264 + MPGA (MP4)Video - H.264 + MPGA (MP4)trStart time:Başlanguç zamânı:ltStart time:Pradžios laikas:ruDelete this text before the name:Удалить этот тест из начала названия:ruNoneНе заданоltWeb TV (Kazakh)Internetinė televizija (Kazachstanas)esNew groupNuevo grupoltFormat:Formatas:esUse authentificationUsar autentificaciónfrWeb TV (Armenian)Web TV (Arménien)zh_TWWeb TV (Korean)網路電視 (韓語)frWatch television channels from internetVisionnez les chaînes de télévision sur internetlttststrWeb TV (Catalan)Genelağ Televizyonu (Katalonca)zh_CNWeb TV (English)网络电视 (英语)frAzerbaijani Web TV and RadioAzerbaïdjanais : WebTV et WebRadiozh_TWError when updating the channels of the group "%s".
+
+SQLite has returned error:
+%s.更新群組「%s」內頻道發生錯誤。
+
+SQLite 回傳錯誤:
+%s。frWeb Radio (Serbo-Croatian)Web Radio (Serbo-croate)frWeb Radio (Maltese)Web Radio (Maltais)trminutesdakîkafrEnglish Web TV and RadioAnglais : WebTV et WebRadio, WebEmissionsltPrevious channelAnkstesnis kanalasltWeb Radio (Czech)Internetinė radija (Čekų)ltPlease enter the group's URI !Prašome įvesti grupės URI!plAre you sure you want to quit?Zamknąć?zh_TWWeb TV (Latin)網路電視 (拉丁語)ltWeb TV (Turkish)Internetinė televizija (Turkish)es_Add a groupAgregar _grupofrAlbanian Web TV and RadioAlbanais : WebTV et WebRadiotrFreetuxTVFreetuxTVtr++zh_TW<b>Startup</b><b>啟動</b>zh_TWSynchronizing the tv channels list正在同步電視頻道清單zh_TWName of the group which will be added將加入的群組名稱zh_CN%m/%d/%y%m/%d/%yltWeb TV (English)Internetinė televizija (Anglų kalba)ruUse a custom configuration fileИспользовать альтернативный файл конфигурацииzh_TWArabic Web TV and Radio阿拉伯語網路電視與電台trItalian Web TV and Radioİtalyanca Genelağ TV ve RadyolarıtrEnglish Web TV and Radioİngilizce Genelağ TV ve RadyosudeGroup propertiesGruppeneigenschaftenzh_TWWeb TV (English)網路電視 (英語)frVol:Vol :esTitle:Título:pt++ltWeb TV (Turkmen)Internetinė televizija (Turkmėnų)ltExisting channels groupEsamos kanalų grupėsfrFormat:Format :esWatch television channels from internetVer canales de TV desde InternetltIrish Web TV and RadioAirijos Internetinė televizija ir radijaszh_TWRecord the current channel錄製目前頻道ruSynchronize the TV channels list in the local database from the XML databaseСинхронизировать список каналов из XML(стандартной) базы в локальную базу с каналамиruPlaylist's URI of the group which will be addedАдрес содержащий список каналов который будет добавлен
+(ссылка на m3u файл или в другом читаемом формате)
+Например: http://database.freetuxtv.net/playlists/playlist_webtv_ru.m3utrEnable desktop notificationsMasaüstü bildirimlerini etkinleştirltDelete this text before the name:Prieš pavadinimą pašalinti šį tekstą:es<b>Configuration file (vlcrc)</b><b>Archivo configuración (vlcrc)</b>ltWeb TV (Malayalam)Internetinė televizija (Malayalam)frmp4mp4frError when adding the channel "%s".
+
+SQLite has returned error:
+%s.L'ajout de la chaîne "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.trSynchronizing the list of tv channels...TV kanal listesi eşleniyor...ruChannel's name:Название каналаfrWeb Radio (Interlingua)Web Radio (Interlingua)ltAzerbaijani Web TV and RadioAzerbaidžano Internetinė televizija ir radijazh_CNWeb Radio (German)网络电台 (德语)zh_CNDeinterlacement:反交错:ltWeb TV (Dutch)Internetinė televizija (Olandų)ltAfrikaans Web TV and RadioAfrikiečių internetinė televizija ir radijazh_CNPortuguese Web TV and Radio葡萄牙语网络电视与电台ltBobBobzh_CN++ltWeb Cam (Hebrew)Interneto kamera (Hebrajų)ruPassword:Пароль:frAlice (Unofficial)Alice (Non Officiel)deNo proxyKein Proxyzh_CNVol:音量:zh_CNInitializing user configuration...正在初始化用户配置...plPassword:Hasłó:zh_TWDetails詳細資訊trChannel's name:Kanal adı:ltWeb TV (No lang)Internetinė televizija (be kalbos)ltWeb TV (Bengali/Bangla)Internetinė televizija (Bengalų / Bangalija)frMalayalam Web TV and RadioMalayalam : WebTV et WebRadioltError when updating the group "%s".
+
+SQLite has returned error:
+%s.Klaida atnaujinant grupę „%s“.
+
+SQLite grąžino klaidą:
+%s.de--ltFreetuxTVFreetuxTVfrError when adding the group "%s" in database.
+
+SQLite has returned error:
+%s.Impossible d'ajouter le groupe "%s" dans la base de données.
+
+SQLite a retourné l'erreur :
+%s.frWeb TV (Azerbaijani)Web TV (Azerbaïdjanais)esMeanSignificadofrWeb TV (Dutch)Web TV (Néerlandais)ltWeb TV (Portuguese)Internetinė televizija (Portugalų)zh_CNDiscard丢弃zh_CN<b>Connection</b><b>连接</b>deBlendBlenddePredefined transcoding formatsVordefinierte Transkodierformateru<i>Restart the application after changing this option.</i><i>Требуется перезапуск приложения для применения этой настройки</i>ltHTTPHTTPesPlaylist's URI of the group which will be addedLista de reproducción de URI que serán agregadosltHindi Web TV and RadioHindi Internetinė televizija ir radijaltPreferencesNustatymaitr%02d:%02d:%02d%02d:%02d:%02dtrError when adding the recording '%s'.
+
+SQLite has returned error:
+%s.'%s' TV kanalı eklenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.zh_CNError when updating the position of the groups.
+
+SQLite has returned error:
+%s.更新组的位置出错。
+
+SQLite 返回错误:
+%s.frWeb TV (Chinese)Web TV (Chinois)esDirectory Record:Directorio de grabación:zh_TWSFR TV (Unofficial)SFR TV (非官方)trMeanOrtalazh_CNWeb TV (Polish)网络电视 (波兰语)frRussian Web TV and RadioRusse : WebTV et WebRadioesTerminatedTerminadozh_TWPolish Web TV and Radio波蘭語網路電視與電台trExisting channels groupÖntanımlı kanal listesiruPlease enter the group's name !Пожалуйста введите имя списка каналов!zh_CNNo lang Web TV and Radio未归类语言的网络电视与电台zh_TWDelete this text behind the name:刪除名稱後的這些文字:trError when updating the position of the channels in group "%s".
+
+SQLite has returned error:
+%s."%s" listesindeki kanal konumları güncellenirken hatâ oluştu.
+
+SQLite hatâ bildirdi:
+%s.ruAdding channels groupsДобавление списков с каналамиltWeb TV (Icelandic)Internetinė televizija (Islandų)ru%m/%d/%Y %H:%M%m/%d/%Y %H:%MesAdd to favouritesAgregar a favoritostrWeb TV (Norwegian)Genelağ Televizyonu (Norveççe)zh_TWGeneral一般dePlease enter the group's name !Bitte gib einen Gruppennamen ein!ltWeb Radio (Vietnamese)Internetinė radija (Vietnamiečių)frWeb TV (Polish)Web TV (Polonais)trWeb TV (Latin)Genelağ Televizyonu (Latince)frWeb TV (Croatian)Web TV (Croate)frSlovak Web TV and RadioSlovaque : WebTV et WebRadiofrWeb TV (Italian)Web TV (Italien)frWeb TV (Slovenian)Web TV (Slovène)frNew groupNouveau groupetr%02dh%02dm%02ds%02dh%02dm%02dsruURIИнтернет адресzh_CNError when getting the channel by name.
+
+SQLite has returned error:
+%s.按名称获取频道出错。
+
+SQLite 返回错误:
+%s.trVol:Ses:zh_TWLinear線性frError when updating the channel "%s".
+
+SQLite has returned error:
+%s.La mise à jour de la chaîne "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.plSelect a directoryWybierz katalogfrWeb Cam (Ukrainian)Webcam (Ukrainien)deWeb TV (Korean)Internet-TV (koreanisch)zh_CNJapanese Web TV and Radio日语网络电视与电台deDetailsDetailsruTerminatedЗавершенныеdeLatin Web TV and RadioLateinisches Web TV und Radiorutranslator-creditsEugen Z. <cdxncdxn@gmail.com>deGeneralAllgemeinzh_CNUse authentification使用身份认证trManual proxy configurationElle vekil sunucu yapılandırmasızh_CNView file查看文件ruGroup propertiesПараметры группыesSmall modeModo pequeñotrWeb TV (German)Genelağ Televizyonu (Almanca)ptDetailsDetalheszh_TWError when migrating the database.
+
+SQLite has returned error:
+%s.移植資料庫發生錯誤。
+
+SQLite 回傳錯誤:
+%s。ltError when updating the database version.
+
+SQLite has returned error:
+%s.Klaida atnaujinant duomenų bazės versiją.
+
+SQLite grąžino klaidą:
+%s.ruUse authentificationИспользовать авторизациюtrKorean Web TV and RadioKorece Genelağ TV ve Radyolarızh_CNWeb TV (Czech)网络电视 (捷克语)trGetting the file: "%s""%s" dosyası alınıyortrAdd a groupListe eklezh_CNWeb Radio (Italian)网络电台 (意大利语)ruAn error occurred while playing channel '%s' : %s
+
+If the problem persist, you can report that the link is dead at %sПроизошла ошибка при просмотре канала '%s' : %s
+
+Если ошибка не исчезает, вы можете сообщить о нерабочей ссылке  %sruDelete the search text areaУдалить текст из поля поискаzh_CNOptions选项frWeb TV (Turkmen)Web TV (Turkmène)frPlay the current channelLire la chaîne en coursltDownload timeout (seconds) :Parsiuntimo galiojimo laikas (sekundėmis):zh_CNYou can easily use regular expressions to delete some text in the channel's name of the groupe. For example, if in your playlist, you have a name like "11 - NT1" or "12 - NRJ 12", FreetuxTV is able to remove the channel's number before the name, by using the regular expression "[0-9]* - ".您可以使用正则表达式删除组中频道名称的部分文字。例如，如果您的播放列表中有类似 "11 - NT1" 或 "12 - NRJ 12" 的名称，FreetuxTV 可以使用正则表达式 "[0-9]* - " 移除名称前的频道号。trHungarian Web TV and RadioMacarca Genelağ TV ve RadyolarıptExisting channels groupGrupos de canais conhecidoszh_TWWeb TV (French)網路電視 (法語)lt_Add a group_Pridėti grupęzh_TWPersian Web TV and Radio波斯語網路電視與電台fr%ld bytes%ld octetsfrWeb Programmes (Spanish)Emissions TV/Radio sur le Web (Espagnol)esUsername:Nombre de Usuario:zh_TWGNU General Public License v3GNU 通用公共授權許可 第三版frExisting channels groupGroupe des chaînes existanteszh_CNProxy port:代理端口:ltManual proxy configurationRankinis tarpinio serverio konfigūravimasplStart time:Czas początkowyfrError when deleting the channel "%s".
+
+SQLite has returned error:
+%s.L'effacement de la chaîne "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.deGo to the current channel playingGehe zum aktuell spielenden KanalesUse the VLC configuration fileUsar el archivo de configuración de VLCfrMalay Web TV and RadioMalais : WebTV et WebRadioltWeb Programmes (French)Tinklinės programos (Prancūzijoje)plNetworkSiećltWeb TV (Tamil)Internetinė televizija (Tamil)ltSearch:Ieškoti:ltSwedish Web TV and RadioŠvedijos Internetinė televizija ir radijaltError when adding the label of channel logo '%s'.
+
+SQLite has returned error:
+%s.Klaida pridedant kanalo grupės logotipo antraštę „%s“.
+
+SQLite grąžino klaidą:
+%s.frError when adding the recording '%s'.
+
+SQLite has returned error:
+%s.L'ajout de l'enregistrement "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.zh_TWmp4mp4zh_TWWeb Programmes (French)網路節目 (法語)es_Channels_CanalesesGetting the file: "%s"Obteniendo el archivo: "%s"zh_TWXXdeWeb TV (Czech)Internet-TV (tschechisch)frError when adding the tv channel '%s'.
+
+SQLite has returned error:
+%s.L'ajout de la chaîne TV "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.zh_CNNew group新建组dehttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmlhttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmlltWeb TV (Amharic)Internetinė televizija (Amharų)fr<b>Destination</b><b>Destination</b>ruTelevision Channels PlayerПросмотр ТВ-каналовtrError when adding the channels.
+
+M3UParser has returned error:
+%s.Kanallar eklenirken hatâ oluştu.
+
+M3UParser hatâ bildirdi:
+%s.dePlease select a least one group !Bitte wähle mindestens eine Gruppe aus!ltMoldavian Web TV and RadioMoldavų Internetinė televizija ir radijasltWeb TV (Armenian)Internetinė televizija (Armėnų kalba)de++zh_TWWeb TV (Portuguese)網路電視 (葡萄牙語)zh_CNAdding channels group: <i>%s</i>正在添加频道组: <i>%s</i>frGo back to the normal modeRevenir au mode normalltCatalan Web TV and RadioKatalonų Internetinė televizija ir radijatrWeb Radio (Spanish)Genelağ Radyosu (İspanyolca)ltSFR TV (Unofficial)SFR TV (Neoficiali)zh_CNError when updating the channel "%s".
+
+SQLite has returned error:
+%s.更新频道 "%s" 出错。
+
+SQLite 返回错误:
+%s.trJump to current channelİzlenen kanala geçtrProxy type:Vekil sunucu türü:trError when displaying the channels.
+
+SQLite has returned error:
+%s.Kanallar görüntülenirken hatâ oluştu.
+
+SQLite hatâ bildirdi:
+%s.zh_CNPolish Web TV and Radio波兰语网络电视与电台ltGreek Web TV and RadioGraikijos Internetinė televizija ir radijaptFullscreen modeModo tela cheiafrError when deleting the recording "%s".
+
+SQLite has returned error:
+%s.La suppression de l'enregistrement "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.zh_CNError when updating the last update date of the group "%s".
+
+SQLite has returned error:
+%s.更新组 "%s" 上次更新日期出错。
+
+SQLite 返回错误:
+%s.ruMuteПриглушитьzh_TWKorean Web TV and Radio韓語網路電視與電台trError when downloading the file from URL -> %s.
+
+CURL has returned error:
+%s.URL -> %s bağlantısından dosya indirilirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.dePlay the current channelSpiele den aktuellen SenderltGroup propertiesGrupės savybėstrError when updating the group "%s".
+
+SQLite has returned error:
+%s."%s" listesi güncellenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.deGNU General Public License v3GNU General Public License v3trWeb TV (Turkish)Genelağ Televizyonu (Türkçe)zh_CNCatalan Web TV and Radio加泰罗尼亚语网络电视与电台zh_CNWeb TV (Slovak)网络电视 (斯洛伐克语)zh_TWLoading the list of recordings...正在載入錄影清單…esName of the group which will be addedNombre del grupo que será agregadotr<b>Notifications</b><b>Bildirimler</b>frEnable desktop notificationsActiver les notifications du bureaudePlay last channel on startupSpiele den letzen Sender beim StartenfrMaltese Web TV and RadioMaltais : WebTV et WebRadiofrWeb TV (Latvian/Lettish)Web TV (Letton/Lette)ru<b>Search of channels</b><b>Поиск каналов</b>frPlaying: %sEn cours de lecture : %sltCambodian Web TV and RadioKambodžos Internetinė televizija ir radijasfrLoading user configuration...Chargement configuration utilisateurzh_TWError when downloading the file from URL -> %s.
+
+CURL has returned error:
+%s.從該 URL 下載檔案時發生錯誤 -> %s。
+
+CURL 回傳錯誤:
+%s。zh_CNDelete the search text area删除搜索文本域trError when getting the channel by name.
+
+SQLite has returned error:
+%s.Kanal adı alınırken hatâ oluştu.
+
+SQLite hatâ bildirdi:
+%s.trDelete group's channelsListe kanallarını silzh_TWRecordings錄影deMeanMeantrPlay last channel on startupAçılışta son izlenen kanalı oynatru<b>Notifications</b><b>Уведомления</b>deSpanish Web TV and RadioSpanisches Web TV und Radiozh_CNStopping channel: %s正在停止频道: %str<b>Destination</b><b>Hedef</b>trDelete the search text areaArama metnini silzh_CNWeb Radio (English)网络电台 (英语)frWeb Radio (Irish)Web Radio (Irlandais)esSynchronizing the tv channels listSincronizando la lista de canales de TVltTamil Web TV and RadioTamil Internetinė televizija ir radijatrSynchronizing the tv channels listTV kanalları listesi eşleniyorzh_CNVideo - H.264 + MPGA (MP4)视频 - H.264 + MPGA (MP4)ltText or regexp which must be deleted at the beginning of the channel's nameKanalo pavadinimo pradžioje tekstas ar regexp išraiška kuri turi būti pašalintatrBlendHarmanlazh_CN<b>Transcoding options</b><b>转码选项</b>zh_CNError when deleting the tv channels list.
+
+SQLite has returned error:
+%s.删除电视频道列表出错。
+
+SQLite 返回错误:
+%s.trError when deleting the channel "%s".
+
+SQLite has returned error:
+%s."%s" kanalı silinirken hatâ oluştu.
+
+SQLite hatâ bildirdi:
+%s.deWeb TV (German)Internet-TV (deutsch)esPassword:Clave:zh_CNVideo - MPEG-2 + MPGA (TS)视频 - MPEG-2 + MPGA (TS)de%02dh%02dm%02ds%02dh%02dm%02dszh_TWis playing正在播放ltDo you want to move the related file on the hard disk to the trash?Ar norite susijusius failus, kietajame diske perkelti į šiukšlinę?frWeb TV (Romanian)Web TV (Roumain)fr%1.1f MB%1.1f MoltWeb TV (Japanese)Internetinė televizija (Japonų kalba)frWeb Cam (English)Webcam (Anglais)trActivate/Deactivate the window always on topPencereyi üstte tutmayı aç/kapatzh_CNStop playing the current channel停止播放当前频道ruUsername:Имя пользователя:ltJapanese Web TV and RadioJaponijos Internetinė televizija ir radijazh_CNPlease enter the group's name !请输入组名!ltLatin Web TV and RadioLotynų Internetinė televizija ir radijaszh_CNRequired ISP所需 ISPzh_TWUpdate "%s" channels list更新「%s」頻道清單trPrevious channelÖnceki kanalltIgnore diacriticsNepaisyti diakritikųltAlice (Unofficial)Alice (Neoficiali)frArmenian Web TV and RadioArménien : WebTV et WebRadiozh_TWError when linking the TV channel '%s' to channel.
+
+SQLite has returned error:
+%s.為電視頻道『%s』建立連結時發生錯誤。
+
+SQLite 回傳錯誤:
+%s。deChinese Web TV and RadioChinesisches Web TV und RadiofrSpecial groupGroupe spécialtrIn progressİşlenenlerzh_TWURIURIlt%02dh%02dm%02ds%02dh%02dm%02dstrNumber of channels:Kanal sayısı:tr%1.1f GB%1.1f GBfrWeb TV (Russian)Web TV (Russe)esDelete this text before the name:Elimina este texto antes del nombre:zh_CNPlease select a least one group !请至少选择一个组!ltNo transcodingNeperkoduotifrWeb Radio (Romanian)Web Radio (Roumain)zh_CNFullscreen mode全屏模式tr<b>Configuration file (vlcrc)</b><b>Yapılandırma dosyası (vlcrc)</b>frGreek Web TV and RadioGrec : WebTV et WebRadiozh_CN%m/%d/%Y%m/%d/%YtrWeb TV (Japanese)Genelağ Televizyonu (Japonca)esLoading user configuration...Cargando configuración del usuario...frSFR TV (Unofficial)SFR TV (Non Officiel)lt_FreetuxTV_FreetuxTVtrNo proxyVekil sunucu yoktrGreek Web TV and RadioYunanca Genelağ TV ve RadyolarıltWeb TV (Kurdish)Internetinė televizija (Kurdų)zh_TW<b>Channel VLC options:</b><b>頻道 VLC 選項:</b>zh_TWGroup's name:群組名稱:ltSynchronizing TV channels from fileTV kanalai sinchronizuojami su failuzh_CNError when adding the channel "%s".
+
+SQLite has returned error:
+%s.添加频道 "%s" 出错。
+
+SQLite 返回错误:
+%s.trWeb TV (Spanish)Genelağ Televizyonu (İspanyolca)frVideo - MPEG-2 + MPGA (TS)Video - MPEG-2 + MPGA (TS)trError when updating the channels of the group "%s".
+
+SQLite has returned error:
+%s."%s" listesinin kanalları güncellenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.ltmp4mp4frJapanese Web TV and RadioJaponais : WebTV et WebRadiotrError when adding the group "%s" in database.
+
+SQLite has returned error:
+%s."%s" listesi veritabanına eklenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.zh_CNWeb TV (Arabic)网络电视 (阿拉伯语)zh_CN--ltGo back to the normal modeGrįžti į įprastą režimąesFullscreen modeModo pantalla completafrFavouritesFavorislt++ruJump to current channelПерейти на текущий каналruSelected channel:Выбранныйzh_TWWeb TV (Swedish)網路電視 (瑞典語)ltVietnamese Web TV and RadioVietnamo Internetinė televizija ir radijasfrError when updating the channels of the group "%s".
+
+SQLite has returned error:
+%s.La mise à jour des chaînes du groupe "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.trSOCKSSOCKSzh_CN<b>Special group type:</b><b>特殊组类:</b>zh_TWWeb TV (No lang)網路電視 (無語言)zh_TWProject's Web Site項目網站frPersian Web TV and RadioPersan : WebTV et WebRadiozh_CNPlease enter the group's URI !请输入组 URI !tr%m/%d/%Y%m/%d/%YtrURIBulunakdeDelete the search text areaDas Suchfeld leerenltTitle:Pavadinimas:zh_TWHungarian Web TV and Radio匈牙利語網路電視與電台lt_Channels_KanalailtWeb TV (Catalan)Internetinė televizija (Katalonų)ptPredefined transcoding formatsFormatos de transcodificação pré-definidosdeDiscardStreichenruGo back to the normal modeВернуться в нормальный режимltWeb Radio (Greek)Internetinė radija (Graikų)de%1.1f MB%1.1f MBes channels canalesltWeb TV (Lithuanian)Internetinė televizija (Lietuvių)deRussian Web TV and RadioRussisches Web TV und RadiodeWeb TV (English)Internet-TV (englisch)fr<b>Proxy</b><b>Proxy</b>ltCzech Web TV and RadioČekijos Internetinė televizija ir radijaltError when updating the status of the recording "%s".
+
+SQLite has returned error:
+%s.Klaida atnaujinant įrašo „%s“ būseną.
+
+SQLite grąžino klaidą:
+%s.zh_TWLibVLCLibVLCzh_CN_FreetuxTV_FreetuxTVltWeb TV (Malay)Internetinė televizija (Malajų)ltNetworkTinklasltSlovak Web TV and RadioSlovakijos Internetinė televizija ir radijafrVideo - Theora + Vorbis (OGG)Video - Theora + Vorbis (OGG)zh_TWCannot open database.
+
+SQLite has returned error:
+%s.無法開啟資料庫。
+
+SQLite 回傳錯誤:
+%s。frWeb TV (Norwegian)Web TV (Norvégien)zh_CNManual proxy configuration手动配置代理dePrevious channelVorheriger SenderltArmenian Web TV and RadioArmėnų Internetinė televizija ir radijafrGetting the file: "%s"Récupération du fichier : "%s"ruPrevious channelПредыдущий каналltWeb TV (Korean)Internetinė televizija (Korėjiečių)esSelect a directorySelecciona un directoriozh_TWis recording正在錄製zh_TWWeb TV (Greek)網路電視 (希臘語)ltError when getting the channel.
+
+SQLite has returned error:
+%s.Klaida gaunant kanalus.
+
+SQLite grąžino klaidą:
+%s.ltEstonian Web TV and RadioEstijos Internetinė televizija ir radijafr%ld min%ld mindeLoading user configuration...Lade Benutzerkonfiguration...zh_CNPlaying: %s正在播放: %sde_Add a group_Gruppe hinzufügendeGo back to the normal modeZurück in normalen Moduszh_TWGetting the file: "%s"正在獲取檔案:「%s」zh_TWInitializing user configuration...正在初始化使用者配置…ruIgnore diacriticsИгнорировать специальные символыzh_TWChinese Web TV and Radio漢語網路電視與電台lt<b>Configuration file (vlcrc)</b><b>Konfigūracijos failas (vlcrc)</b>ltWeb Programmes (English)Interneto programos (Anglų kalba)ltXXzh_TWBlend混合fr_Channels_ChaînesfrGo to the current channel playingAller à la chaîne en cours de lecturezh_CNNo proxy无代理zh_TWAdding channels groups正在加入頻道群組ltVol:Garsas:zh_CNError when adding the label of channel logo '%s'.
+
+SQLite has returned error:
+%s.添加频道 logo '%s' 的标签出错。
+
+SQLite 返回错误:
+%s.zh_CNError when adding the tv channel '%s'.
+
+SQLite has returned error:
+%s.添加电视频道 '%s' 出错。
+
+SQLite 返回错误:
+%s.frWeb Cam (Japanese)Webcam (Japonais)ltWeb TV (Persian)Internetinė televizija (Persian)frJump to current channelAtteindre la chaîne en coursltSynchronizing the tv channels listSinchronizuojamas tv kanalų sąrašasltnonejoksltvcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2vcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2frWeb TV (Persian)Web TV (Persan)lt--zh_CNWeb Programmes (French)网络节目 (法语)zh_TWUse a custom configuration file使用自訂配置檔案plGeneralOgólnezh_TWError when deleting the channels of the group "%s".
+
+SQLite has returned error:
+%s.刪除群組「%s」內頻道發生錯誤。
+
+SQLite 回傳錯誤:
+%s。ruSynchronizing the tv channels listСинхронизация списка каналовfrWeb Radio (Vietnamese)Web Radio (Vietnamien)ltChannelsKanalaiesChannel's name:Nombre del canal:plDuration:Czas nagrywaniatrAdding channels group: <i>%s</i>Kanal listesi ekleniyor: <i>%s</i>zh_CNRecording: %s (%s) -> %s (%s)正在录制: %s (%s) -> %s (%s)frWeb Cam (Dutch)Webcam (Néerlandais)frDelete group's channelsSupprimer les chaînes du groupeltWeb Radio (Turkish)Internetinė radija (Turkish)ltWeb Radio (Interlingua)Interneto radijo (Tarpinė kalba)zh_TWError when adding the label of channel logo '%s'.
+
+SQLite has returned error:
+%s.加入頻道 logo『%s』的標籤發生錯誤。
+
+SQLite 回傳錯誤:
+%s。zh_TWError when displaying the channels.
+
+SQLite has returned error:
+%s.顯示頻道發生錯誤。
+
+SQLite 回傳錯誤:
+%s。zh_TWChannels' search text area頻道搜尋文字欄位deUpdate "%s" channels list"%s" Senderlisten aktualisierenltLibVLCLibVLCfrInterlingua Web TV and RadioInterlingua : WebTV et WebRadiozh_CNSelected channel:选中频道:frWeb Radio (German)Web Radio (Allemand)es<b>Search of channels</b><b>Búsqueda de canales</b>zh_TWSmall mode最簡模式ltWeb TV (German)Internetinė televizija (Vokiečių kalba)trDo you want to move the related file on the hard disk to the trash?Bellekte bulunan ilgili dosyayı çöpe taşımak istiyor musunuz?trJapanese Web TV and RadioJaponca Genelağ TV ve RadyolarıesRequired ISPISP Requeridofr<b>Transcoding options</b><b>Options de transcodage</b>ltCustom channels groupPasirinktinė kanalų grupėesNo proxySin ProxyesSearch:Búsqueda:plPlaylist's URI of the group which will be addedURI Listy odtwarzania jaka ma być dodanazh_TWError when deleting the channel "%s".
+
+SQLite has returned error:
+%s.刪除頻道「%s」時發生錯誤。
+
+SQLite 回傳錯誤:
+%s。frTurkish Web TV and RadioTurc : WebTV et WebRadiozh_TWNumber of channels:頻道數:frSynchronizing TV channels from fileSynchronisation de la liste des chaînes TV du fichierzh_TWvcodec=theo,vb=800,scale=1,acodec=vorb,ab=128,channels=2vcodec=theo,vb=800,scale=1,acodec=vorb,ab=128,channels=2zh_CNWeb Radio (Spanish)网络电台 (西班牙语)ruChannelsКаналыdeURIURIltEnd time:Pabaigos laikas:zh_TWAdd a recording加入錄製ltView filePeržiūrėti failązh_TW channels 頻道ltTagalog Web TV and RadioTagalų Internetinė televizija ir radijasdeInitializing user configuration...Initialisiere Benutzerkonfiguration...tr00:00:0000:00:00trVideo - H.264 + MPGA (MP4)İzleti - H.264 + MPGA (MP4)es<b>Recording period</b><b>Período de grabación</b>frError when displaying the channels.
+
+SQLite has returned error:
+%s.L'affichage de la liste des chaînes a échoué.
+
+SQLite a retourné l'erreur :
+%s.zh_TWUsername:使用者名稱:frSynchronize the TV channels list in the local database from the XML databaseSynchroniser la liste des chaînes TV dans la base locale depuis le fichier XMLzh_CNProxy server:代理服务器:zh_TWAdd to favourites加入到收藏trLibVLCLibVLCltLoading user configuration...Įkeliama naudotojo konfigūracija...trError when updating the database version.
+
+SQLite has returned error:
+%s.Veritabanı sürümü güncellenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.ltKorean Web TV and RadioKorėjos interneto TV ir radijaslt<i>Restart the application after changing this option.</i><i>Pakeitus šią parinkty, programą paleiskite iš naujo.</i>frTagalog Web TV and RadioTagalog : WebTV et WebRadioltFullscreen modeViso ekrano režimasdeActivate/Deactivate the window always on topAktivieren/Deaktivieren Fenster immer im VordergrundltChannels groups file:Kanalų grupės failas:zh_CNPlaylist's URI:播放列表 URI:trAdd a recordingKayıt ekleltItalian Web TV and RadioItalijos interneto TV ir radijasruProject's Web SiteСайт проектаfrWeb TV (Vietnamese)Web TV (Vietnamien)frChannels' search text areaZone de recherche de chaînestr<b>Startup</b><b>Başlangıç</b>esChannels' search text areaBúsqueda de canales del área de textozh_CNError when linking the TV channel '%s' to channel.
+
+SQLite has returned error:
+%s.为电视频道 '%s' 建立链接时出错。
+
+SQLite 返回错误:
+%s.zh_TWvcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2vcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2esNetworkRedzh_TWWeb Radio (German)網路電台 (德語)ltInterlingua Web TV and RadioInterlingva Internetinė televizija ir radijastrtstsfrIndonesian Web TV and RadioIndonésien : WebTV et WebRadiozh_TW%ld byte%ld 位元組fr<b>Processing of channels' name</b><b>Traitement du nom des chaînes</b>frError when adding the label of channel logo '%s'.
+
+SQLite has returned error:
+%s.Erreur lors de l'ajout d'un libellé du logo de chaîne '%s'.
+
+SQLite a retourné l'erreur :
+%s.ltWeb TV (Slovenian)Internetinė televizija (Slovėnų)ltWeb TV (Indonesian)Internetinė televizija (Indoneziečių)zh_TWFullscreen mode全螢幕模式frnoneaucunlt_Deinterlace_DeinterliacijafrSerbian Web TV and RadioSerbe : WebTV et WebRadiozh_CNDutch Web TV and Radio荷兰语网络电视与电台frURIURIzh_CNError when adding the recording '%s'.
+
+SQLite has returned error:
+%s.添加录像任务 '%s' 出错。
+
+SQLite 返回错误:
+%s。ltSerbo-Croatian Web TV and RadioSerbų-horvatų Internetinė televizija ir radijaszh_CNRecord the current channel录制当前频道ltGeorgian Web TV and RadioGruzijos Internetinė televizija ir radijaruChannel's URI:Интернет адрес каналаltWeb Radio (Chinese)Interneto radijo (Kinų)ru<b>Recording period</b><b>Время записи</b>tr%d channels group(s) have been successfully added.%d kanal listesi başarılı bir şekilde eklendi.frWeb Cam (Arabic)Webcam (Arabe)trGo back to the normal modeVarsayılan görünümtrWeb Radio (Russian)Genelağ Radyosu (Rusça)zh_CN_Add a group添加组(_A)zh_TWDo you want to move the related file on the hard disk to the trash?是否希望將硬碟上的相關檔案移入回收筒 ?zh_TWAlice (Unofficial)Alice (非官方)ltPlease select a least one group !Pasirinkite bent vieną grupę!trSlovak Web TV and RadioSlovakça Genelağ TV ve RadyolarıltFavouritesMėgstamiausitrWeb TV (Persian)Genelağ Televizyonu (Farsça)ptUpdate "%s" channels listActualizar a lista de canais "%s"zh_TWTelevision Channels Player電視頻道播放器ltRecordingsĮrašailtWeb TV (Hebrew)Internetinė televizija (Hebrajų)tr%1.1f MB%1.1f MBltRussian Web TV and RadioRusijos Internetinė televizija ir radijaplCustom channels groupGrupa kanałów użytkownikaltWeb TV (Mongolian)Internetinė televizija (Mongolų)ptPrevious channelCanalruName of the group which will be addedНазвание списка с каналами который будет добавлен.
+Например: Мои список каналовruAdd to favouritesДобавить в избранноеfrKazakh Web TV and RadioKazakh : WebTV et WebRadiofrWeb TV (Estonian)Web TV (Estonien)ru%1.1f GB%1.1f Гбzh_TWDelete the search text area刪除搜尋文字欄位zh_TWError when deleting the group "%s".
+
+SQLite has returned error:
+%s.刪除群組「%s」時發生錯誤。
+
+SQLite 回傳錯誤:
+%s。ltRomanian Web TV and RadioRumunijos Internetinė televizija ir radijaplEnd time:Czas końcowyfrError when updating the position of the channels in group "%s".
+
+SQLite has returned error:
+%s.La mise à jour de la position du groupe "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.frWeb TV (Serbian)Web TV (Serbe)plAdd a recordingDodaj nagranietrWeb TV (No lang)Genelağ Televizyonu (Dil ayrımsız)deWeb TV (French)Internet-TV (französisch)frLithuanian Web TV and RadioLituanien : WebTV et WebRadiotrvcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2vcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2ltWeb TV (Albanian)Internetinė televizija (Albanų)frUse the VLC configuration fileUtiliser le fichier de configuration de VLCtrChannel propertiesKanal özelliklerideName of the group which will be addedName der Gruppe die hinzugefügt wirdltTelevision Channels PlayerTelevizijos kanalų grotuvasfrWeb TV (Maltese)Web TV (Maltais)zh_TW_Video視訊(_V)trWeb Radio (German)Genelağ Radyosu (Almanca)deStop playing the current channelStoppe die Wiedergabe des aktuellen SendersptPlay last channel on startupLer o último canal ao arranquefrWeb TV (No lang)Web TV (Sans langue)ltWeb TV (Serbo-Croatian)Internetinė televizija (Serbų-horvatų)frError when deleting the group "%s".
+
+SQLite has returned error:
+%s.La suppression du groupe "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.fr<b>Special group type:</b><b>Type du groupe spécial :</b>ruPlease enter the group's URI !Пожалуйста введите адрес списка каналов!frWeb Cam (No lang)Webcam (Sans langue)fr_Deinterlace_DésentrelacementesNext channelSiguiente canalzh_TWDelete group's channels刪除群組內頻道esDuration:Duración:trWeb TV (Korean)Genelağ Televizyonu (Korece)frError when adding the channels.
+
+M3UParser has returned error:
+%s.L'ajout des chaînes n'a pas correctement fonctionné.
+
+M3UParser a retourné l'erreur :
+%s.zh_CNPredefined transcoding formats预定义的转码格式frWeb TV (Catalan)Web TV (Catalan)ltUzbek Web TV and RadioUzbekų Internetinė televizija ir radijalt%ld byte%ld byteltError when deleting the group "%s".
+
+SQLite has returned error:
+%s.Klaida šalinant grupę „%s“.
+
+SQLite grąžino klaidą:
+%s.deDelete group's channelsLösche Sender der GrupperuSynchronizing the list of tv channels: %s...Синхронизируется список каналов: %s...esPlaylist's URI:URI reproducción:ltAn error occurredĮvyko klaidatrMuteSusturfrActivate/Deactivate the window always on topActive/Désactive fenêtre toujours au premier planzh_TWWeb Radio (Catalan)網路電台 (加泰羅尼亞語)zh_TW++frtranslator-creditstranslator-creditsdeView fileDatei ansehenruAre you sure you want to quit?Вы действительно хотите выйти?trLoading user configuration...Kullanıcı yapılandırması yükleniyor...frProxy port:Port du proxy:frvcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2vcodec=h264,vb=768,width=368,height=208,fps=29.97,acodec=mpga,ab=64,channels=2zh_CNGreek Web TV and Radio希腊语网络电视与电台deRecord the current channelAktuellen Sender aufzeichnenzh_TWLanguages/Channels group語言/頻道群組tr--zh_TWDeinterlacement:反交錯:zh_TWhttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmlhttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmldePreferencesEinstellungenltWeb TV (Chinese)Internetinė televizija (Kinų)es<b>Notifications</b><b>Notificaciones</b>trWeb Radio (No lang)Genelağ Radyosu (Dil ayrımsız)ltProxy server:Tarpinis serveris:ltLoading the list of channels...Įkeliamas kanalų sąrašas...frText or regexp which must be deleted at the end of the channel's nameTexte ou expression régulière qui sera retiré à la fin du nom de la chaînetrmp4mp4ltWeb Radio (Maltese)Interneto radijo (Maltiečių)ltWeb Radio (Polish)Interneto radijo (Lenkų)ltBulgarian Web TV and RadioBulgarų Internetinė televizija ir radijastrFullscreen modeTam ekrandeis playinggibt wiederzh_CN<b>Startup</b><b>启动</b>ru%ld byte%ld байтzh_CNError when getting the database version.
+
+SQLite has returned error:
+%s.获取数据库版本出错。
+
+SQLite 返回错误:
+%s.ltWeb TV (Finnish)Internetinė televizija (Suomių kalba)zh_CNCzech Web TV and Radio捷克语网络电视与电台frWeb Radio (Slovenian)Web Radio (Slovène)frChannel propertiesPropriété de la chaînezh_TW<b>Notifications</b><b>通知</b>ltUse a custom configuration fileNaudoti pasirinktinį konfigūracijos failąfrOptionsOptionsfr_Add a group_Ajouter un groupetrAn error occurred while playing channel '%s' : %s
+
+If the problem persist, you can report that the link is dead at %s'%s' kanalı oynatılırken hatâ oluştu : %s
+Sorun devam ederse, kanal bağlantısının çalışmadığını %s bulunağına bildirebilirsinizltDanish Web TV and RadioDanijos internetinė televizija ir radijaszh_CNhttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmlhttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmlzh_TWTurkish Web TV and Radio土耳其語網路電視與電台zh_TWRecording: %s (%s) -> %s (%s)正在錄製: %s (%s) -> %s (%s)zh_CNExisting channels group现有频道组zh_TWtstsfrUzbek Web TV and RadioOuzbek : WebTV et WebRadiofrGroup propertiesPropriétés du groupezh_TWWeb TV (Chinese)網路電視 (漢語)trError when updating the last update date of the group "%s".
+
+SQLite has returned error:
+%s."%s" listesinin son güncellenme târihi güncellenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.frIrish Web TV and RadioIrlandais : WebTV et WebRadiozh_TWRecording: %s正在錄製: %sfrIn progressEn coursltChannel's URI:Kanalo URI:zh_CN_Video视频(_V)lt%02d:%02d:%02d%02d:%02d:%02dzh_TWAre you sure you want to quit?您是否確定要離開 ?zh_TW<b>Configuration file (vlcrc)</b><b>配置檔案 (vlcrc)</b>ltPlaying: %sAtkuriama: %sltWeb TV (Cambodian)Internetinė televizija (Kambodžos)frError when getting the channel.
+
+SQLite has returned error:
+%s.La récupération de la chaîne a échoué.
+
+SQLite a retourné l'erreur :
+%s.lt_Video_VideoltHebrew Web TV and RadioHebrajų Internetinė televizija ir radijazh_CNWeb TV (Thai)网络电视 (泰语)zh_CNTerminated已终止ruRequired ISPНеобходимый провайдерdeWeb Radio (German)Internetradio (deutsch)esSpanish Web TV and RadioEspañol, Canales TV y RadiotrUse a custom configuration fileÖzel yapılandırma dosyası kullanltSynchronize the TV channels list in the local database from the XML databaseSinchronizuoti TV kanalų sąrašą vietinėje duomenų bazėje iš XML duomenų bazėszh_CNNorwegian Web TV and Radio挪威语网络电视与电台lt%ld bytes%ld bytesfrDelete the search text areaEffacer la zone de texte de recherchetrSearch:Ara:fr<b>Channel VLC options:</b><b>Options VLC de la chaîne:</b>tr%m/%d/%Y %H:%M%m/%d/%Y %H:%MltPunjabi Web TV and RadioPandžabi Internetinė televizija ir radijaltWeb TV (Afrikaans)Internetinė televizija (afrikiečių)zh_TW<b>Connection</b><b>連接</b>zh_TW_Deinterlace反交錯(_D)ltError when deleting the channel "%s".
+
+SQLite has returned error:
+%s.Klaida šalinant kanalą „%s“.
+
+SQLite grąžino klaidą:
+%s.frPortuguese Web TV and RadioPortugais : WebTV et WebRadiodeWeb TV (Latin)Internet-TV (lateinisch)fr<b>Startup</b><b>Démarrage</b>ltError when getting the database version.
+
+SQLite has returned error:
+%s.Klaida gaunant duomenų bazės versiją.
+
+SQLite grąžino klaidą:
+%s.zh_CNWeb TV (Japanese)网络电视 (日语)trError when deleting the recording "%s".
+
+SQLite has returned error:
+%s."%s" kaydı silinirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.esOptionsOpcionesru%d channels group(s) have been successfully added.Групп(а) каналов %d успешно добавлена.ltDelete the search text areaIšvalyti paieškos teksto laukąfrXXzh_CNWeb TV (Chinese)网络电视 (汉语)zh_TW%02dh%02dm%02ds%02dh%02dm%02dsltEnable desktop notificationsĮjungti darbastalio pranešimusfrWeb TV (Punjabi)Web TV (Panjābī)plDelete this text before the name:Usuń tekst przed nazwą:ltPlaylist's URI:Grojaraščio URI:ru<b>Configuration file (vlcrc)</b><b>Файл конфигурации (vlcrc)</b>zh_TWError when getting the channel.
+
+SQLite has returned error:
+%s.獲取頻道發生錯誤。
+
+SQLite 回傳錯誤:
+%s。frText or regexp which must be deleted at the beginning of the channel's nameTexte ou expression régulière qui sera retiré au début du nom de la chaîneltWeb TV (Urdu)Internetinė televizija (Urdu)zh_CNFreetuxTVFreetuxTVltWeb TV (Moldavian)Internetinė televizija (Moldavijos)frPlease enter the group's URI !Veuillez remplir l'URI du groupe !deLoading the list of channels...Lade Senderliste...dePassword:Passwort: zh_CNUpdate "%s" channels list更新 "%s" 频道列表frWeb TV (Indonesian)Web TV (Indonésien)zh_TWYou can easily use regular expressions to delete some text in the channel's name of the groupe. For example, if in your playlist, you have a name like "11 - NT1" or "12 - NRJ 12", FreetuxTV is able to remove the channel's number before the name, by using the regular expression "[0-9]* - ".您可以使用正規表示式刪除群組中頻道名稱的部分文字。例如，如果您的播放清單中有類似「11 - NT1」或「12 - NRJ 12」的名稱，FreetuxTV 可以使用正規表示式「[0-9]* - 」移除名稱前的頻道號。ruSelect one or several channels group you want to add and click on the add button.Выделите один или несколько списков с каналами и нажмите кнопку добавить.ltoggoggtrWeb Radio (Catalan)Genelağ Radyosu (Katalonca)zh_TWminutes分鐘frWeb Radio (Spanish)Web Radio (Espagnol)ltError when adding the channels.
+
+M3UParser has returned error:
+%s.Klaida pridedant kanalą.
+
+M3UParser grąžino klaidą:
+%s.zh_CNError when adding the group "%s" in database.
+
+SQLite has returned error:
+%s.向数据库添加组 "%s" 出错。
+
+SQLite 返回错误:
+%s.zh_TWDiscard丟棄deWeb Programmes (French)Webprogramme (französisch)lt%ld min%ld minruWeb TV channels playerПриложение для просмотра и записи ТВ -каналовfrLatvian/Lettish Web TV and RadioLetton/Lette : WebTV et WebRadioesProxy port:Puerto del Proxy:deWeb TV (Arabic)Internet-TV (arabisch)deGerman Web TV and RadioDeutsches Web TV und RadioesGroup's name:Nombre grupo:esChannels groups file:Archivo de grupos de canales:ruOptionsПараметрыtrError when deleting the tv channels list.
+
+SQLite has returned error:
+%s.TV kanalları listesi silinirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.es<b>Startup</b><b>Inicio</b>plLanguages/Channels groupęzyki/Grupy kanałówruChannels groups file:XML Файл со списками каналов:lt<b>Processing of channels' name</b><b>Apdorojamas kanalo pavadinimas</b>esSelected channel:Canal seleccionado:frAre you sure you want to quit?Êtes-vous sûr de vouloir quitter?zh_CNChinese Web TV and Radio汉语网络电视与电台frWeb TV (Albanian)Web TV (Albanais)deoggoggruDo you want to move the related file on the hard disk to the trash?Вы хотите поместить файл в корзину?zh_CNWeb Radio (Chinese)网络电台 (汉语)deJapanese Web TV and RadioJapanisches Web TV und RadioruEnd time:Конец времениru_FreetuxTV_FreetuxTVdeFavouritesFavoritenzh_CNPrevious channel上一频道de00:00:0000:00:00zh_TWError when adding the recording '%s'.
+
+SQLite has returned error:
+%s.加入錄製『%s』時發生錯誤。
+
+SQLite 回傳錯誤:
+%s。ptPlay the current channelLer o canal actualplSearch:Szukaj:deWeb Radio (Spanish)Internetradio (spanisch)esEnable desktop notificationsActivar notificaciones del escritoriozh_CNNumber of channels:频道数:zh_CNminutes分钟esLoading the list of recordings...Cargando listado de grabaciones...frBlendFonduzh_TWGerman Web TV and Radio德語網路電視與電台frUse a custom configuration fileUtiliser un fichier de configuration personalisétr_FreetuxTV_FreetuxTVfr%d channels group(s) have been successfully added.%d groupe(s) de chaînes ont été ajouté(s) avec succès.ltBlendMaišytifrUsername:Nom de l'utilisateurplPlay last channel on startupPo uruchomieniu odtwarzaj ostatni kanałltWeb TV (French)Internetinė televizija (Prancūzų kalba)zh_TWWeb Radio (No lang)網路電台 (無語言)frWeb Radio (No lang)Web Radio (Sans langue)trXXzh_TWEnglish Web TV and Radio英語網路電視與電台trIgnore diacriticsHarf aksanlarını yoksaytrError when updating the channel "%s".
+
+SQLite has returned error:
+%s."%s" kanalı güncellenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.zh_CNWeb TV (Dutch)网络电视 (荷兰语)trPolish Web TV and RadioLehçe Genelağ TV ve RadyolarıltWeb TV (Macedonian)Internetinė televizija (Makedonijos)frAn error occurredUne erreur s'est produitezh_TWStop playing the current channel停止播放目前頻道de%1.1f GB%1.1f GBesView fileVer archivofrUkrainian Web TV and RadioUkrainien : WebTV et WebRadiozh_CNError when deleting the channels of the group "%s".
+
+SQLite has returned error:
+%s.删除组 "%s" 内频道出错。
+
+SQLite 返回错误:
+%s.zh_TWSelected channel:所選頻道ruVol:Громкостьzh_TWJump to current channel跳至目前頻道ltNo proxyBe tarpinio serveriotrRecording: %s (%s) -> %s (%s)Kaydediyor: %s (%s) -> %s (%s)frAdd a recordingAjout d'un enregistrementdeAdd a groupGruppe hinzufügenes<b>Processing of channels' name</b><b>Nombre procesamiento de canales</b>deItalian Web TV and RadioItalienisches Web TV und Radiozh_TWPlaylist's URI:播放清單 URI:frSynchronizing the list of tv channels: %s...Synchronisation de la liste des chaînes TV: %s...fr%m/%d/%Y%d/%m/%YfrChannel's name:Nom de la chaîne :frProject's Web SiteSite Web du projettrWeb TV (French)Genelağ Televizyonu (Fransızca)zh_CNGroup's name:组名:de%ld bytes%ld BytesltError when displaying the channels.
+
+SQLite has returned error:
+%s.Klaida atvaizduojant kanalus.
+
+SQLite grąžino klaidą:
+%s.deChannelsSenderes<b>Destination</b><b>Destino</b>ltWeb Radio (Hebrew)Internetinė radija (Hebrajų)deChannels' search text areaSender-SuchfeldltThai Web TV and RadioTailando Internetinė televizija ir radijaltGo to the current channel playingEiti į šiuo metu rodomą kanaląfrWeb Radio (Czech)Web Radio (Tchèque)esPlay the current channelReproducir canal actualfrPlaylist's URI:URI de la playlist :zh_CNUse the VLC configuration file使用 VLC 配置文件zh_TWVideo - H.264 + MPGA (MP4)視訊 - H.264 + MPGA (MP4)plminutesminutyzh_CNSwedish Web TV and Radio瑞典语网络电视与电台esRecord the current channelGrabar el canal actualru%1.1f kB%1.1f Кбruis playingвоспроизводитсяtrSmall modeKüçük görünümesProject's Web SiteSitio web del proyectotr<b>Connection</b><b>Bağlantı</b>plPlaylist's URI:URI Listy odtwarzania:de%ld byte%ld Bytezh_CN<i>Restart the application after changing this option.</i><i>更改此选项后请重新启动程序。</i>frGroup's name:Nom du groupe :esPrevious channelCanal anteriorzh_CNWeb TV (Persian)网络电视 (波斯语)plSelected channel:Wybierz kanałzh_TWPlay last channel on startup啟動時播放上次播放的頻道ltWeb Cam (No lang)Internetinė kamera (be kalbos)ltDuration:Trukmė:trAdd to favouritesGözdelere ekletrAre you sure you want to quit?Çıkmak istediğinize emin misiniz?frMeanMoyennezh_CNChannel's name:频道名称:frDiscardNégligerfrWeb TV (Uzbek)Web TV (Ouzbek)zh_TWError when getting the channel by name.
+
+SQLite has returned error:
+%s.按名稱獲取頻道發生錯誤。
+
+SQLite 回傳錯誤:
+%s。esGo to the current channel playingIr a la lista de reproducción actualltWeb Radio (Catalan)Internetinė radija (Katalonų)zh_CNDelete group's channels删除组内频道zh_TW_Add a group加入群組(_A)frChannels groups file:Fichier des groupes de chaînes :deDutch Web TV and RadioNiederländisches Web TV und Radiozh_TW<b>Search of channels</b><b>搜尋頻道</b>zh_TWError when adding the group "%s" in database.
+
+SQLite has returned error:
+%s.向資料庫加入群組「%s」時發生錯誤。
+
+SQLite 回傳錯誤:
+%s。frBulgarian Web TV and RadioBulgare : WebTV et WebRadioltVideo - H.264 + MPGA (MP4)Video - H.264 + MPGA (MP4)esInitializing user configuration...Inicializando configuración del usuario...zh_CNWeb Radio (Catalan)网络电台 (加泰罗尼亚语)ruFavouritesИзбранноеesCustom channels groupGrupo de canales personalizadoltWeb TV (Thai)Internetinė televizija (Tajų)frYou can easily use regular expressions to delete some text in the channel's name of the groupe. For example, if in your playlist, you have a name like "11 - NT1" or "12 - NRJ 12", FreetuxTV is able to remove the channel's number before the name, by using the regular expression "[0-9]* - ".Vous pouvez utiliser les expressions régulières pour enlever du texte inutile dans le nom des chaînes du groupe. Par exemple, si dans votre playlist, vous avez des noms de chaînes du style "11 - NT1", "12 - NRJ 12", FreetuxTV peut enlever automatiquement le numéro de chaînes devant, en spécifiant l'expression "[0-9]* - ".ltWeb TV (Czech)Internetinė televizija (Čekija)deSwedish Web TV and RadioSchwedisches Web TV und RadiofrWeb TV (Japanese)Web TV (Japonais)ltWeb TV (Romanian)Internetinė televizija (Rumunų)zh_CNDisable禁用frPunjabi Web TV and RadioPanjābī : WebTV et WebRadioltWeb TV (Russian)Internetinė televizija (Rusų k.)deSynchronizing the list of tv channels...Synchronisiere die TV-Senderliste...trText or regexp which must be deleted at the beginning of the channel's nameKanal adının başından silinecek olan metin ya da düzenli ifâdezh_CNStart time:起始时间:zh_CNWeb TV (Norwegian)网络电视 (挪威语)ruProxy port:Порт прокси сервера:trGo to the current channel playingŞu anda yazılımda izlenen kanala gitfrAdd to favouritesAjouter aux favoriszh_TWPlay the current channel播放目前頻道esLanguages/Channels groupGrupo Idioma/CanalesruText or regexp which must be deleted at the beginning of the channel's nameТекст или регулярное выражение удаляемые с конца названия каналаzh_CNWeb TV (Swedish)网络电视 (瑞典语)frNetworkRéseauplTitle:TytułtrTelevision Channels PlayerTelevizyon Kanalı OynatıcıdeRecordingsAufzeichnungenzh_CN00:00:0000:00:00zh_CNRomanian Web TV and Radio罗马尼亚语网络电视与电台trPersian Web TV and RadioFarsça Genelağ TV ve RadyolarıfrError when downloading the file from URL -> %s.
+
+CURL has returned error:
+%s.Erreur lors du téléchargement du fichier depuis l'URL -> %s.
+
+CURL a retourné l'erreur :
+%s.zh_CNFrench Web TV and Radio法语网络电视与电台deSmall modeMinimale AnsichtfrWeb Radio (English)Web Radio (Anglais)zh_TWProxy port:代理連接埠:lt<b>Proxy</b><b>Tarpinis serveris</b>frDanish Web TV and RadioDanois : WebTV et WebRadiotrGerman Web TV and RadioAlmanca Genelağ TV ve RadyolarıtrSelect one or several channels group you want to add and click on the add button.Eklemek istediğiniz bir ya da daha fazla kanal listesini seçin ve ekle düğmesine tıklayın.frError when getting the database version.
+
+SQLite has returned error:
+%s.La récupération de la version de la base de donnée a échoué.
+
+SQLite a retourné l'erreur :
+%s.frWeb TV (Bulgarian)Web TV (Bulgare)ltWeb Cam (Dutch)Interneto kamera (Olandų)ltFrench Web TV and RadioPrancūzijos Internetinė televizija ir radijazh_CNArabic Web TV and Radio阿拉伯语网络电视与电台zh_TWWeb Radio (Chinese)網路電台 (漢語)frWeb Radio (Croatian)Web Radio (Croate)esChannelsCanalestrWeb Radio (Chinese)Genelağ Radyosu (Çince)ltOptionsParinktysfrWeb TV (Finnish)Web TV (Finnois)dePolish Web TV and RadioPolnisches Web TV und Radiozh_TWTerminated已終止frSelect a directoryChoisissez un dossierruDuration:ПродолжительностьfrCatalan Web TV and RadioCatalan : WebTV et WebRadiozh_CNLoading the list of recordings...正在载入录像列表...ltDeinterlacement:Deinterliacija:trInitializing user configuration...Kullanıcı yapılandırması başlatılıyor...zh_TWChannels頻道ltHungarian Web TV and RadioVengrijos Internetinė televizija ir radijaszh_CNName of the group which will be added将添加的组名trWeb TV (Greek)Genelağ Televizyonu (Yunanca)fr<b>Connection</b><b>Connexion</b>trUpdate "%s" channels list"%s" kanal listesini güncellelttranslator-creditsAlgimantas Margevičius <margevicius.algimantas@gmail.com>deWeb TV (Slovak)Internet-TV (slovakisch)trPreferencesTercihlerruYou can easily use regular expressions to delete some text in the channel's name of the groupe. For example, if in your playlist, you have a name like "11 - NT1" or "12 - NRJ 12", FreetuxTV is able to remove the channel's number before the name, by using the regular expression "[0-9]* - ".Вы можете использовать регулярные выражения, чтобы удалить текст в названиях каналов.
+Например, в списке воспроизведения названия:
+"11 - Телеканал 2x2". 
+"12 - Культура". 
+"11 - " и "12 - " перед именем канала удаляется с помощью фильтра: "[0-9]* - "frTurkmen Web TV and RadioTurkmène : WebTV et WebRadiozh_TWError when updating the position of the channels in group "%s".
+
+SQLite has returned error:
+%s.更新群組「%s」中頻道位置發生錯誤。
+
+SQLite 回傳錯誤:
+%s。frWeb TV channels playerLecteur de chaînes de télévision et radio sur InternetruNumber of channels:Количество каналов:zh_CNError when deleting the recording "%s".
+
+SQLite has returned error:
+%s.删除录像任务 "%s" 出错。
+
+SQLite 返回错误:
+%s.trPassword:Açarsöz:frWeb Cam (Hebrew)Webcam (Hébreu)zh_TWtranslator-creditsDean Lee <xslidian+freetuxtv@gmail.com>
+趙惟倫 <william.chao@ossii.com.tw>ltDetailsDetalėstrWeb TV (Italian)Genelağ Televizyonu (İtalyanca)zh_TWAdd a group加入群組trCustom channels groupKişisel kanal listesiltDisableIšjungtifrVideo - H.264 + MPGA (MP4)Video - H.264 + MPGA (MP4)ltAlbanian Web TV and RadioAlbanų internetinė televizija ir radijatrWeb TV (English)Genelağ Televizyonu (İngilizce)deProject's Web SiteWebseite des ProjektstrRecord the current channelSeçili kanalı kaydetdeWeb TV (Norwegian)Internet-TV (norwegisch)ltWeb Cam (Polish)Interneto kamera (Lenkų)ru_Channels_КаналыtrThai Web TV and RadioTayca Genelağ TV ve RadyolarıltSerbian Web TV and RadioSerbijos Internetinė televizija ir radijaltWeb TV (Croatian)Internetinė televizija (Kroatų)trError when migrating the database.
+
+SQLite has returned error:
+%s.Veritabanı taşınırken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.ltRequired ISPReikalingas ISPltWeb TV (Punjabi)Internetinė televizija (Pandžabų)zh_TWNo transcoding無轉碼zh_CNNone无frAn error occurred while playing channel '%s' : %s
+
+If the problem persist, you can report that the link is dead at %sUne erreur s'est produite durant la lecture de la chaîne '%s' : %s
+
+Si le problème persiste, vous pouvez reporter que le lien est mort sur %szh_TWError when getting the database version.
+
+SQLite has returned error:
+%s.獲取資料庫版本發生錯誤。
+
+SQLite 回傳錯誤:
+%s。zh_CNGerman Web TV and Radio德语网络电视与电台zh_CNtranslator-creditsDean Lee <xslidian+freetuxtv@gmail.com>frFinnish Web TV and RadioFinnois : WebTV et WebRadiozh_CNvcodec=theo,vb=800,scale=1,acodec=vorb,ab=128,channels=2vcodec=theo,vb=800,scale=1,acodec=vorb,ab=128,channels=2zh_TWThai Web TV and Radio泰語網路電視與電台zh_TWWeb TV (Turkish)網路電視 (土耳其語)ptEnable desktop notificationsActivar as notificações no ecrãdeWeb TV (Spanish)Internet-TV (spanisch)frDownload timeout (seconds) :Timeout de téléchargement (secondes) :frWeb Radio (Polish)Web Radio (Polonais)lt%m/%d/%y%m/%d/%ytrWeb TV (Portuguese)Genelağ Televizyonu (Portekizce)frTerminatedTerminéltSelect one or several channels group you want to add and click on the add button.Pasirinkite vieną ar kelias kanalų grupes, kurias norite pridėti ir paspauskite mygtuką pridėti.estranslator-creditscrédito traductorestrSpanish Web TV and Radioİspanyolca Genelağ TV ve RadyolarıptPreferencesPreferênciaszh_TW%m/%d/%y%m/%d/%yltWeb Cam (Japanese)Interneto kamera (Japonų kalba)esDownload timeout (seconds) :Tiempo fuera de la descarga (segundos) :ruChannel propertiesПараметры каналаlt<b>Channel VLC options:</b><b>Kanalo VLC parinktys:</b>deWeb Programmes (English)Webprogramme (englisch)ltWeb TV (Danish)Internetinė televizija (Danų kalba)trRussian Web TV and RadioRusça Genelağ TV ve RadyolarıfrPlaylist's URI of the group which will be addedURI de la playlist du groupe à ajouterzh_TW%1.1f MB%1.1f MBdeWeb Radio (French)Internetradio (französisch)zh_CN_Deinterlace反交错(_D)frWeb TV (Malayalam)Web TV (Malayalam)zh_TWWeb TV (Romanian)網路電視 (羅馬尼亞語)ltError when updating the last update date of the group "%s".
+
+SQLite has returned error:
+%s.Klaida atnaujinant paskutinio grupės „%s“ atnaujinimo datą.
+
+SQLite grąžino klaidą:
+%s.frNo transcodingPas de transcodageltWeb TV (Arabic)Internetinė televizija (Arabų)zh_CNWeb TV (Catalan)网络电视 (加泰罗尼亚语)zh_TWWeb Programmes (English)網路節目 (英語)zh_CNSpecial group特殊组frItalian Web TV and RadioItalien : WebTV et WebRadioltUpdate "%s" channels listAtnaujinamas „%s“ kanalų sąrašasru<b>Proxy</b><b>Прокси</b>trCzech Web TV and RadioÇekçe Genelağ TV ve RadyolarıltSelect a directoryPasirinkti aplankątrPortuguese Web TV and RadioPortekizce Genelağ TV ve RadyolarıltPassword:Slaptažodis:ltMeanVidutinistrEnd time:Bitiş zamânı:ltDelete group's channelsPašalinti grupės kanaluszh_TW<b>Recording period</b><b>錄製時段</b>fr_Synchronize TV channels database_Synchroniser la base de donnée des chaînes TVzh_TWChannel's name:頻道名稱:esActivate/Deactivate the window always on topActiva/Desactiva ventana siempre encimafrHungarian Web TV and RadioHongrois : WebTV et WebRadiolt%m/%d/%Y%m/%d/%YtrAlice (Unofficial)Alice (Resmî olmayan)zh_TWAdding channels group: <i>%s</i>正在加入頻道群組: <i>%s</i>ltInitializing user configuration...Inicijuojama naudotojo konfigūracija...deWeb TV (Italian)Internet-TV (italienisch)trError when updating the status of the recording "%s".
+
+SQLite has returned error:
+%s."%s" kaydının durumu güncellenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.zh_CNBob摆动zh_TWError when adding the channel "%s".
+
+SQLite has returned error:
+%s.加入頻道「%s」時發生錯誤。
+
+SQLite 回傳錯誤:
+%s。deWeb TV (Russian)Internet-TV (russisch)zh_CN%ld byte%ld 字节esLoading the list of channels...Cargando listado de canales...esStop playing the current channelParar reproducción del canal actualzh_CNFavourites收藏zh_TWRomanian Web TV and Radio羅馬尼亞語網路電視與電台fr%m/%d/%y%d/%m/%ylt<b>Connection</b><b>Prisijungimas</b>deChannel's URI:URI der Sender:trGNU General Public License v3GNU Genel Kamu Lisansu Sürüm 3zh_CNDelete this text behind the name:删除名称后的这些文字:frWeb TV (Moldavian)Web TV (Moldave)trWeb TV (Romanian)Genelağ Televizyonu (Romence)frUpdate "%s" channels listMise à jour de la liste des chaînes de "%s"frLatin Web TV and RadioLatin : WebTV et WebRadiozh_CN<b>Channel VLC options:</b><b>频道 VLC 选项:</b>fr_Help_AidefrWeb Radio (Greek)Web Radio (Grec)ltError when getting the channel by name.
+
+SQLite has returned error:
+%s.Klaida gaunant kanalą pagal vardą.
+
+SQLite grąžino klaidą:
+%s.frWeb TV (Portuguese)Web TV (Portugais)zh_CNAdd a group添加组zh_CNWeb Radio (Russian)网络电台 (俄语)ruIn progressВ процессеfrError when updating the status of the recording "%s".
+
+SQLite has returned error:
+%s.La mise à jour du statut de l'enregistrement "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.frNext channelChaîne suivantefr%ld byte%ld octetltError when adding the channel "%s".
+
+SQLite has returned error:
+%s.Klaida pridedant kanalą „%s“.
+
+SQLite grąžino klaidą:
+%s.ltminutesminutėstrTurkish Web TV and RadioTürkçe Genelağ TV ve Radyolarızh_TW%1.1f kB%1.1f kBzh_CNError when downloading the file from URL -> %s.
+
+CURL has returned error:
+%s.从该 URL 下载文件时出错 -> %s。
+
+CURL 返回错误:
+%s.zh_TWExisting channels group現有頻道群組trGeneralGeneltr<b>Recording period</b><b>Kaydetme aralığı</b>frGerman Web TV and RadioAllemand : WebTV et WebRadioesChannel propertiesPropiedades del canalfrWeb TV (English)Web TV (Anglais)ltWeb Radio (Slovak)Internetinė radija (Slovakijos)frWeb TV (Tamil)Web TV (Tamoul)ruUpdate "%s" channels listОбновляется список каналов "%s"ltWeb Radio (Serbo-Croatian)Internetinė radija (Serbų-horvatų)trError when getting the database version.
+
+SQLite has returned error:
+%s.Veritabanı sürümü alınırken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.zh_TW_FreetuxTV_FreetuxTVfrMuteMuetltVideo - Theora + Vorbis (OGG)Video - Theora + Vorbis (OGG)fris recordingest en cours d'enregistrementdePlease enter the group's URI !Bitte gib die URI der Gruppe ein!frPolish Web TV and RadioPolonais : WebTV et WebRadiofrMacedonian Web TV and RadioMacédonienne : WebTV et WebRadiotrWeb TV (Polish)Genelağ Televizyonu (Lehçe)es<b>Connection</b><b>Conexión</b>esPreferencesPreferenciasdeWeb TV (Chinese)Internet-TV (chinesisch)trDelete this text before the name:Addan önceki şu metni sil:zh_TWEnd time:終止時間:ptGo back to the normal modeVoltar ao modo normalzh_TWLoading the list of channels...正在載入頻道清單…zh_TWIgnore diacritics忽略變音符trLinearDoğrusalzh_CNLoading the list of channels...正在载入频道列表...plChannels groups file:Plik grupy kanałówzh_TWvcodec=mp2v,vb=800,scale=1,acodec=mpga,ab=128,channels=2vcodec=mp2v,vb=800,scale=1,acodec=mpga,ab=128,channels=2ruSelect a directoryВыберите каталогzh_CN%02dh%02dm%02ds%02dh%02dm%02dszh_CNBlend混合zh_CNError when getting the channel.
+
+SQLite has returned error:
+%s.获取频道出错。
+
+SQLite 返回错误:
+%s.frWeb TV (Amharic)Web TV (Amharique)fr<b>Recording period</b><b>Période d'enregistrement</b>zh_TWWeb TV (Slovak)網路電視 (斯洛伐克語)zh_CNPersian Web TV and Radio波斯语网络电视与电台zh_CNGNU General Public License v3GNU 通用公共授权许可 第三版trError when linking the TV channel '%s' to channel.
+
+SQLite has returned error:
+%s.'%s' TV kanalı kanallara bağlanırken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.ruPlaying: %sПроигрывается: %szh_CNWeb TV (Romanian)网络电视 (罗马尼亚语)ltWeb TV (Georgian)Internetinė televizija (Gruzinų)esFormat:Formato: frAdding channels group: <i>%s</i>Ajout du groupe de chaînes : <i>%s</i>zh_CNAn error occurred while playing channel '%s' : %s
+
+If the problem persist, you can report that the link is dead at %s播放频道 '%s' 时出错: %s
+
+如果问题持续出现，您可以到 %s 报告死链zh_CNWeb TV (Italian)网络电视 (意大利语)zh_CNAn error occurred出现错误ltError when updating the position of the groups.
+
+SQLite has returned error:
+%s.Klaida atnaujinant grupės vietą.
+
+SQLite grąžino klaidą:
+%s.ltProject's Web SiteProjekto tinklapisfrWeb TV (Thai)Web TV (Thai)lt%1.1f GB%1.1f GBltWeb Radio (Italian)Internetinė radija (Italija)deNext channelNächster SendertrPlaying: %s%s oynatılıyorltLinearLinijinisruText or regexp which must be deleted at the end of the channel's nameТекст или регулярное выражение удаляемые из начала строки названия каналаfrWeb TV (Slovak)Web TV (Slovaque)ltWeb Radio (Spanish)Internetinė radija (Ispanų)frWeb Programmes (English)Emissions TV/Radio sur le Web (Anglais)tr<b>Search of channels</b><b>Kanal arama</b>ltSpecial groupSpeciali grupėltFreetuxTV Television Channels PlayerFreetuxTV televizijos kanalų grotuvastrCatalan Web TV and RadioKatalonca Genelağ TV ve RadyolarıtrWatch television channels from internetGenelağdan televizyon kanallarını izleyinruSpecial groupПустой список каналовtrNext channelSonraki kanaltr_Deinterlace_Ayrıştırmazh_CNWeb TV (Hungarian)网络电视 (匈牙利语)zh_TWRussian Web TV and Radio俄語網路電視與電台ruAdd/create a channels group from different sourcesДобавить/Создать список каналов из различных источниковltWeb TV (Latvian/Lettish)Internetinė televizija (Latvių / Latviešu valoda)zh_TWNext channel下一頻道ltError when downloading the file from URL -> %s.
+
+CURL has returned error:
+%s.Klaida atsiunčiant failą iš URL -> %s.
+
+SQLite grąžino klaidą:
+%s.frWeb TV (Kurdish)Web TV (Kurde)zh_CNDownload timeout (seconds) :下载超时 (秒) :zh_TWSelect one or several channels group you want to add and click on the add button.選擇希望加入的一個或多個頻道群組並點擊加入按鈕。zh_TWMute靜音frWeb TV (Lithuanian)Web TV (Lituanien)deNorwegian Web TV and RadioNorwegisches Web TV und RadiotrError when adding the tv channel '%s'.
+
+SQLite has returned error:
+%s.'%s' TV kanalı eklenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.ltDirectory Record:Įrašymo aplankas:zh_TWWeb TV (Czech)網路電視 (捷克語)zh_TWPortuguese Web TV and Radio葡萄牙語網路電視與電台ltActivate/Deactivate the window always on topĮjungti/Išjungti lango „visada viršuje“ būsenąru<b>Connection</b><b>Соединения</b>zh_TWPlease enter the group's name !請輸入群組名稱 !frWeb Radio (Turkish)Web Radio (Turc)pt<b>Destination</b><b>Destino</b>zh_CN%m/%d/%Y %H:%M%m/%d/%Y %H:%MtrChinese Web TV and RadioÇince Genelağ TV ve Radyolarızh_TWMean平均tr<b>Transcoding options</b><b>Çözümleme seçenekleri</b>ltIcelandic Web TV and RadioIslandijos Internetinė televizija ir radijaesNumber of channels:Número de canalesfrName of the group which will be addedNom du groupe à ajouterzh_TWWeb TV (Spanish)網路電視 (西班牙語)zh_CNEnglish Web TV and Radio英语网络电视与电台plDirectory Record:Katalog Nagrania:frLoading the list of channels...Chargement de la liste des chaînes...ltError when deleting the channels of the group "%s".
+
+SQLite has returned error:
+%s.Klaida šalinant kanalą iš grupės „%s“.
+
+SQLite grąžino klaidą:
+%s.trNo transcodingÇözümleme yokltMacedonian Web TV and RadioMakedonų Internetinė televizija ir radijasltPredefined transcoding formatsNumatyti kodavimo formatairuis recordingзаписываетсяzh_TW%1.1f GB%1.1f GBfrEnd time:Heure de fin :zh_CNWeb TV (Greek)网络电视 (希腊语)trText or regexp which must be deleted at the end of the channel's nameKanal adının sonundan silinecek olan metin ya da düzenli ifâdedeLinearLinearzh_CNProxy type:代理类型:zh_CNWeb TV channels player网络电视频道播放器zh_CNRussian Web TV and Radio俄语网络电视与电台frWeb TV (Arabic)Web TV (Arabe)zh_CNWebCam摄像头deTelevision Channels PlayerInternet-TV-PlayerfrWeb TV (Bengali/Bangla)Web TV (Bengali/Bangla)trNorwegian Web TV and RadioNorveççe Genelağ TV ve RadyolarıtrCannot open database.
+
+SQLite has returned error:
+%s.Veritabanı açılamıyor.
+
+SQLite hatâ bildirdi:
+%s.zh_TWChannel properties頻道屬性ltWeb Radio (Romanian)Interneto radijo (Rumunų)deChannel propertiesSendereigenschaftenptFreetuxTVFreetuxTVzh_CNSelect a directory选择目录ru_Add a group_Добавить список с каналамиdeWeb TV (Polish)Internet-TV (polnisch)ltPlay the current channelGroti esamą kanaląplChannel's URI:URI kanału:zh_TWText or regexp which must be deleted at the end of the channel's name頻道名稱末尾必須刪除的文字或正規表示式ruInitializing user configuration...Определяются настройки пользователя...ru<b>Processing of channels' name</b><b>Обработка имен каналов</b>zh_TWDownload timeout (seconds) :下載逾時 (秒) :ruStart time:Время начала:trSFR TV (Unofficial)SFR TV (Resmî olmayan)runoneне заданоltDiscardAtmestifrAdding channels groupsAjouter des groupes de chaînesfrRecordingsEnregistrementstrProject's Web SiteProje Genelağ Sayfasızh_CNmp4mp4zh_CN<b>Search of channels</b><b>搜索频道</b>trWeb TV (Chinese)Genelağ Televizyonu (Çince)ltProxy type:Tarpinio serverio tipas:zh_TWOptions選項frManual proxy configurationConfiguration manuelle du proxytr%1.1f kB%1.1f kBdeFrench Web TV and RadioFranzösisches Web TV und RadioltWeb Radio (English)Internetinė radija (Anglų kalba)frWeb Radio (Slovak)Web Radio (Slovaque)zh_CNUse a custom configuration file使用自定义配置文件ruPlaylist's URI:Интернет адрес списка каналов:trWeb TV (Arabic)Genelağ Televizyonu (Arapça)frError when deleting the channels of the group "%s".
+
+SQLite has returned error:
+%s.La suppression des chaînes du groupe "%s" a échoué.
+
+SQLite a retourné l'erreur :
+%s.zh_TW_Channels頻道(_C)ruGetting the file: "%s"Получаем: "%s"zh_TWPrevious channel上一頻道frSlovenian Web TV and RadioSlovène : WebTV et WebRadiozh_CNWeb TV (Korean)网络电视 (朝鲜语)zh_CN%1.1f kB%1.1f kBzh_TWUse authentification使用身分認證ltWeb TV (Tagalog)Internetinė televizija (Tagalog)trLatin Web TV and RadioLatince Genelağ TV ve RadyolarıtrChannels' search text areaKanal arama bölmesifrDirectory Record:Dossier des enregistrements :frCustom channels groupGroupe personnalisé de chaîneszh_CNPreferences首选项zh_TW--trWeb TV (Hungarian)Genelağ Televizyonu (Macarca)ltPersian Web TV and RadioPersijos Internetinė televizija ir radijazh_CNis recording正在录制ru_Video_ВидеоltError when linking the TV channel '%s' to channel.
+
+SQLite has returned error:
+%s.Klaida siejant tv kanalą „%s“ su kanalu.
+
+SQLite grąžino klaidą:
+%s.zh_TWSOCKSSOCKSltYou can easily use regular expressions to delete some text in the channel's name of the groupe. For example, if in your playlist, you have a name like "11 - NT1" or "12 - NRJ 12", FreetuxTV is able to remove the channel's number before the name, by using the regular expression "[0-9]* - ".Galite naudoti reguliariąsias išraiškas ir be didelio vargo pašalinti tekstą iš kanalo ar grupės pavadinimo. Pvz. jei jūsų grojaraštis pavadintas "11 - NT1" or "12 - NRJ 12", FreeetuxTV gali pašalinti kanalo numerį, naudojant reguliariąją išraišką „[0-9]* - “.zh_TWError when adding the channels.
+
+M3UParser has returned error:
+%s.加入頻道發生錯誤。
+
+M3U 解析器回傳錯誤:
+%s。trPredefined transcoding formatsÖntanımlı çözümleme biçimleriruTitle:Название:ruError when adding the channels.
+
+M3UParser has returned error:
+%s.Ошибка при добавлении каналов.
+
+M3UParser вернул ошибку:
+%s.zh_CN channels 频道ruRecording: %sЗаписывается: %strWeb Radio (English)Genelağ Radyosu (İngilizce)frCzech Web TV and RadioTchèque : WebTV et WebRadiozh_CNItalian Web TV and Radio意大利语网络电视与电台lt%m/%d/%Y %H:%M%m/%d/%Y %H:%Mzh_CNSelect one or several channels group you want to add and click on the add button.选择希望添加的一个或多个频道组并点击添加按钮。zh_CNSlovak Web TV and Radio斯洛伐克语网络电视与电台pl<b>Recording period</b><b>okres nagrywania</b>frWeb Programmes (French)Emissions TV/Radio sur le Web (Français)zh_TWVol:音量:ltis playingatkuriamafrDutch Web TV and RadioNéerlandais : WebTV et WebRadiotr_Add a group_Liste ekledeDisableDeaktivierendeAlice (Unofficial)Alice (inoffiziell)ltError when deleting the recording "%s".
+
+SQLite has returned error:
+%s.Klaida šalinant įrašą „%s“.
+
+SQLite grąžino klaidą:
+%s.trArabic Web TV and RadioArapça Genelağ TV ve Radyolarızh_TWFrench Web TV and Radio法語網路電視與電台ltArabic Web TV and RadioArabų Internetinė televizija ir radijasfr<b>Search of channels</b><b>Recherche de chaînes</b>ruRecord the current channelЗаписать текущий каналzh_TWGo to the current channel playing轉到目前正在播放的頻道zh_TWVideo - MPEG-2 + MPGA (TS)視訊 - MPEG-2 + MPGA (TS)zh_CNCannot open database.
+
+SQLite has returned error:
+%s.无法打开数据库。
+
+SQLite 返回错误:
+%s.ltMongolian Web TV and RadioMongolų Internetinė televizija ir radijafrUpdating TV channel: %sMise à jour de la chaîne TV: %szh_CN<b>Recording period</b><b>录制间隔</b>zh_TWPlaying: %s正在播放: %szh_CNAdd a recording添加录像任务trLanguages/Channels groupDil/Kanal ListesiltKurdish Web TV and RadioKurdų Internetinė televizija ir radijasltFinnish Web TV and RadioSuomijos Internetinė televizija ir radijaltRecording: %s (%s) -> %s (%s)Įrašoma: %s (%s) -> %s (%s)frWeb Radio (Catalan)Web Radio (Catalan)ltRecord the current channelĮrašyti dabartinį kanaląfrFrench Web TV and RadioFrançais : WebTV et WebRadio, WebEmissionsltCannot open database.
+
+SQLite has returned error:
+%s.Atverti duomenų bazės nepavyko.
+
+SQLite grąžino klaidą:
+%s.ruPlay the current channelВключить просмотр текущего каналаltSpanish Web TV and RadioSpanish Internetinė televizija ir radijatr_Video_İzletiltBengali/Bangla Web TV and RadioBengalų / Bangalija interneto TV ir radijasfr%02d:%02d:%02d%02d:%02d:%02dtr<b>Special group type:</b><b>Özel liste biçimi:</b>ruFullscreen modeПолноэкранный режимfrNo lang Web TV and RadioSans langue : WebTV et WebRadioltPolish Web TV and RadioLenkijos Internetinė televizija ir radijaszh_CNChannels频道ruDeinterlacement:Устранение чересстрочности:ruNext channelСледующий каналlt00:00:0000:00:00zh_CNError when migrating the database.
+
+SQLite has returned error:
+%s.移植数据库出错。
+
+SQLite 返回错误:
+%s.zh_TWError when updating the last update date of the group "%s".
+
+SQLite has returned error:
+%s.更新群組「%s」上次更新日期發生錯誤。
+
+SQLite 回傳錯誤:
+%s。ruActivate/Deactivate the window always on topЗакрепить поверх всех оконtrPlaylist's URI:Liste bulunağı:esDelete group's channelsBorrar grupo de canalestroggoggruProxy type:Тип прокси:fr%1.1f kB%1.1f koruRecording: %s (%s) -> %s (%s)Запись: %s (%s) -> %s (%s)zh_CNPlaylist's URI of the group which will be added将添加组的播放列表 URIltPlaylist's URI of the group which will be addedPridedamos grupės grojaraščio URItrOptionsSeçeneklerltWeb Programmes (No lang)Interneto programos (be kalbos)ltWeb Radio (French)Interneto radijo (Prancūzų kalba)frSmall modeMode réduitdePortuguese Web TV and RadioPortugiesisches Web TV und Radiozh_TWStopping channel: %s正在停止頻道: %sltSmall modeSumažintas režimasfrWeb TV (Icelandic)Web TV (Islandais)trFrench Web TV and RadioFransızca Genelağ TV ve RadyosuruDetailsДеталиlt<b>Transcoding options</b><b>Perkodavimo nustatymai</b>ltSelected channel:Pasirinktas kanalas:trVideo - MPEG-2 + MPGA (TS)İzleti - MPEG-2 + MPGA (TS)frPreferencesPréférencesltStopping channel: %sSustabdomas kanalas: %strWeb TV (Dutch)Genelağ Televizyonu (Flemenkçe)zh_TWPlease select a least one group !請至少選擇一個群組 !ltKazakh Web TV and RadioKazachų Internetinė televizija ir radijaszh_CN_Help帮助(_H)frDetailsDétailsltWeb TV (Irish)Internetinė televizija (Airija)ltWeb TV (Spanish)Internetinė televizija (Ispanų)ltLithuanian Web TV and RadioLietuvos Internetinė televizija ir radijaszh_TW<b>Proxy</b><b>代理</b>ltWeb Radio (Serbian)Internetinė radija (Indeksas)froggoggdeWeb TV (Swedish)Internet-TV (schwedisch)deWeb Radio (Russian)Internetradio (russisch)frEstonian Web TV and RadioEstonien : WebTV et WebRadiotrWeb TV (Swedish)Genelağ Televizyonu (İsveççe)zh_CNWeb Programmes (English)网络节目 (英语)ltEnglish Web TV and RadioAnglų Internetinė televizija ir radijaltPlease enter the group's name !Prašome įvesti grupės pavadinimą!esStopping channel: %sParando canal: %szh_CNError when updating the status of the recording "%s".
+
+SQLite has returned error:
+%s.更新录像任务 "%s" 的状态出错。
+
+SQLite 返回错误:
+%s.zh_TWCustom channels group自訂頻道群組trError when adding the label of channel logo '%s'.
+
+SQLite has returned error:
+%s.'%s' kanal logosu etiketi eklenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.frWeb TV (Tagalog)Web TV (Tagalog)frPlease select a least one group !Veuillez sélectionner au moins un groupe !ltWeb Radio (Japanese)Internetinė radija (Japonų)ltProxy port:Tarpinio serverio prievadas:esSelect one or several channels group you want to add and click on the add button.Selecciona 1 o varios grupos de canales que quieras agregar y hace clic sobre el botón agregar.trChannelsKanallarfrThai Web TV and RadioThai : WebTV et WebRadiofrWeb Programmes (No lang)Emissions TV/Radio sur le Web (Sans langue)zh_TWUse the VLC configuration file使用 VLC 配置檔案frFreetuxTV Television Channels PlayerLecteur de chaînes de télévision FreetuxTVltError when adding the group "%s" in database.
+
+SQLite has returned error:
+%s.Klaida pridedant grupę „%s“.
+
+SQLite grąžino klaidą:
+%s.ltAdd a groupPridėti grupęzh_TWWeb TV (Italian)網路電視 (義大利語)ruAdd a groupДобавить список каналовfrFullscreen modeMode plein écranltTV channels synchronisationTV kanalų sinchronizacijaruGeneralОсновныеtrChannel's URI:Kanal Bulunağı:frSelect one or several channels group you want to add and click on the add button.Sélectionnez un ou plusieurs groupes de chaînes que vous voulez ajouter et cliquez sur le bouton Ajouter.ruDelete this text behind the name:Удалить этот тест из конца названия:ruLoading the list of channels...Загружается список каналов...zh_TWSearch:搜尋:trUse authentificationKimlik doğrulama kullanltIn progressVykdomaltWeb TV (Italian)Internetinė televizija (Italų)frTV channels synchronisationSynchronisation des chaînes TVfrTamil Web TV and RadioTamoul : WebTV et WebRadiofrInitializing user configuration...Initialisation configuration utilisateuresEnd time:Término:frWeb TV (Afrikaans)Web TV (Afrikaans)zh_CNLoading user configuration...正在载入用户配置...frWeb TV (Kazakh)Web TV (Kazakh)deNetworkNetzwerkesGo back to the normal modeVolver a modo normalltChannels' search text areaKanalo teksto paieškos vietaruStop playing the current channelОстановить просмотр/запись текущего каналаdeCzech Web TV and RadioTschechisches Web TV und RadiodeAdd to favouritesZu Favoriten hinzufügenlt_Synchronize TV channels database_Sinchronizuoti TV kanalų duomenų bazędemp4mp4zh_CNTurkish Web TV and Radio土耳其语网络电视与电台zh_TWStart time:起始時間:ruEnable desktop notificationsПоказывать уведомления на рабочем столеltWeb Radio (Dutch)Internetinė radija (Olandų)de<b>Proxy</b><b>Proxy</b>frWeb Radio (Chinese)Web Radio (Chinois)zh_TWFavourites收藏ruSearch:Поиск:ltWatch television channels from internetŽiūrėkite televiziją internetetrVideo - Theora + Vorbis (OGG)İzleti - Theora + Vorbis (OGG)ltAdd a recordingPridėti įrašązh_CNProject's Web Site项目网站trPlay the current channelSeçili kanalı izletrDutch Web TV and RadioFlemenkçe Genelağ TV ve Radyolarızh_CNWeb TV (No lang)网络电视 (无语言归类)zh_CNSynchronizing the list of tv channels...正在同步电视频道列表...plGroup's name:Nazwa grupy:esStart time:Tiempo inicio:frWebCamWebCamzh_CN%1.1f MB%1.1f MBdeHungarian Web TV and RadioUngarisches Web TV und RadioesChannel's URI:URI del canal:pt--zh_TWWeb TV (Catalan)網路電視 (加泰羅尼亞語)zh_TWSwedish Web TV and Radio瑞典語網路電視與電台tris recordingkaydediliyorltCroatian Web TV and RadioKroatijos Internetinė televizija ir radijatris playingoynatılıyoresAdding channels groupsAgregando grupos de canalestrDisableKapalıltNumber of channels:Kanalų skaičius:zh_TWAn error occurred出現錯誤zh_TWTitle:標題:ltChinese Web TV and RadioKinijos Internetinė televizija ir radijatrView fileDosyayı görüntületrPlaylist's URI of the group which will be addedEklenecek listenin bulunağızh_TWWeb TV (Japanese)網路電視 (日語)ltAdd/create a channels group from different sourcesPridėti/sukurti kanalų grupes iš skirtingų šaltiniųfrWeb TV (Danish)Web TV (Danois)zh_CNGo back to the normal mode返回常规模式zh_CNEnable desktop notifications启用桌面通知zh_CNDo you want to move the related file on the hard disk to the trash?是否希望将硬盘上的相关文件移入回收站?frWeb TV (Turkish)Web TV (Turc)zh_TWError when deleting the tv channels list.
+
+SQLite has returned error:
+%s.刪除電視頻道清單發生錯誤。
+
+SQLite 回傳錯誤:
+%s。esRecording: %sGrabando: %szh_TWChannels groups file:頻道群組檔案:ru<b>Special group type:</b><b>Тип списка:</b>zh_CNPassword:密码:zh_CNAlice (Unofficial)Alice (非官方)frWeb TV (Korean)Web TV (Coréen)frChinese Web TV and RadioChinois : WebTV et WebRadiozh_TWWeb TV channels player網路電視頻道播放器esDelete this text behind the name:Elimina este texto detrás del nombre:frPlay last channel on startupLire la dernière chaîne au démarragedeXXde<b>Startup</b><b>Startvorgang</b>zh_TWManual proxy configuration手動配置代理ruNetworkСетьruLoading the list of recordings...Загружается список записей...tr channels kanalltAre you sure you want to quit?Ar tikrai norite išeiti?zh_CNAre you sure you want to quit?您是否确定要退出?trRomanian Web TV and RadioRomence Genelağ TV ve RadyolarıfrWeb TV (Irish)Web TV (Irlandais)frSynchronizing the list of tv channels...Synchronisation de la liste des chaînes TV...de_FreetuxTV_FreetuxTVde%1.1f kB%1.1f KBfrNoneAucunltGerman Web TV and RadioVokietijos interneto TV ir radijaszh_TWWeb TV (Polish)網路電視 (波蘭語)deWeb TV (Portuguese)Internet-TV (portugiesisch)esUse a custom configuration fileUsar un archivo de configuración personalizadodeNo transcodingKeine Transkodierungtr%m/%d/%y%m/%d/%ypt channelscanaisruNo transcodingНе перекодироватьfrSpanish Web TV and RadioEspagnol : WebTV et WebRadioltSynchronizing the list of tv channels...Sinchronizuojamas tv kanalų sąrašas...ltError when updating the position of the channels in group "%s".
+
+SQLite has returned error:
+%s.Klaida atanujinant kanalo vietą grupėje „%s“.
+
+SQLite grąžino klaidą:
+%s.plSelect one or several channels group you want to add and click on the add button.Wybierz jedną lub kilka grup kanałów jakie chcesz dodać i kliknij na przycisk.ru_Help_ПомощьdeFreetuxTV Television Channels PlayerFreetuxTV Internet-TV-PlayertrWeb Programmes (French)Genelağ Programları (Fransızca)zh_CNJump to current channel跳至当前频道trError when updating the position of the groups.
+
+SQLite has returned error:
+%s.Listenin konumu güncellenirken hatâ oluştu.
+
+SQLite hata bildirdi:
+%s.zh_CNMute静音trNetworkŞebekeptGeneralGeraiszh_CNTelevision Channels Player电视频道播放器deHTTPHTTPesis playingestá reproduciendozh_CNMean平均ltUrdu Web TV and RadioUrdu Internetinė televizija ir radijasfrWeb Radio (Japanese)Web Radio (Japonais)de<b>Channel VLC options:</b><b>VLC Senderoptionen:</b>deWeb Radio (Chinese)Internetradio (chinesisch)zh_CNAdd to favourites添加到收藏esRecordingsGrabacionesde channels Senderzh_CNvcodec=mp2v,vb=800,scale=1,acodec=mpga,ab=128,channels=2vcodec=mp2v,vb=800,scale=1,acodec=mpga,ab=128,channels=2esSpecial groupGrupo EspecialfrChannel's URI:URI de la chaîne :ruProxy server:Прокси сервер:lt<b>Search of channels</b><b>Kanalų paieška</b>ltDelete this text behind the name:Pašalinti šį tekstą pavadinimo pradžioje:zh_TWWeb TV (Persian)網路電視 (波斯語)frvcodec=mp2v,vb=800,scale=1,acodec=mpga,ab=128,channels=2vcodec=theo,vb=800,scale=1,acodec=vorb,ab=128,channels=2,samplerate=44100esAdd a groupAgrega un grupofrBobBobpt<b>Startup</b><b>Inicio</b>ltChannel's name:Kanalo pavadinimas:ltTerminatedNutrauktatr_Help_YardımfrWeb TV (Serbo-Croatian)Web TV (Serbo-croate)ltWeb Radio (Hindi)Internetinė radija (Hindi)tr%ld bytes%ld baytzh_TWEnable desktop notifications啟用桌面通知trhttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmlhttp://freetuxtv.googlecode.com/svn/trunk/data/channels_groups.xmltrAn error occurredBir hatâ oluştuplOptionsOkcjetrSelect a directoryDizin seçinesNoneNingunozh_CNIn progress正在进行de_Channels_SenderfrWeb TV (Mongolian)Web TV (Mongol)deWeb Radio (English)Internetradio (englisch)esDetailsDetalleszh_TWError when updating the group "%s".
+
+SQLite has returned error:
+%s.更新群組「%s」時發生錯誤。
+
+SQLite 回傳錯誤:
+%s。frWeb TV (Czech)Web TV (Tchèque)esFavouritesFavoritosltUsername:Naudojo vardas:trAdding channels groupsKanal listeleri ekleniyordeWeb TV (Hungarian)Internet-TV (ungarisch)trYou can easily use regular expressions to delete some text in the channel's name of the groupe. For example, if in your playlist, you have a name like "11 - NT1" or "12 - NRJ 12", FreetuxTV is able to remove the channel's number before the name, by using the regular expression "[0-9]* - ".Listedeki kanal adından bâzı metinleri silmek için basit düzenli ifâdeler kullanabilirsiniz. Örneğin, ekleyeceğiniz listedeki kanalın "54 - Kanal 54" ya da "3 - TRT 3" benzeri bir adı varsa, FreetuxTV kanalın adının öncesinde bulunan rakamları "[0-9]*- " düzenli ifâdesini kullanarak silebilir.ltWeb Cam (Arabic)Interneto kamera (Arabų)frPredefined transcoding formatsFormats prédéfinis de transcodagezh_CNWeb TV (Russian)网络电视 (俄语)plRequired ISPBrakuje ISPesminutesminutosltNext channelSekantis kanalasfr--trRequired ISPSağlayıcıdeWeb TV (Dutch)Internet-TV (niederländisch)ltSOCKSSOCKSfrRecording: %sEn cours d'enregistrement : %ses<b>Channel VLC options:</b><b>Opciones de canales VLC:</b>plName of the group which will be addedNazwa grupy jaka ma być dodanaptNo transcodingSem transcodificaçãozh_TWCzech Web TV and Radio捷克語網路電視與電台ltWeb Cam (Ukrainian)Interneto kamera (Ukrainiečių)ltvcodec=mp2v,vb=800,scale=1,acodec=mpga,ab=128,channels=2vcodec=mp2v,vb=800,scale=1,acodec=mpga,ab=128,channels=2frWeb Radio (Dutch)Web Radio (Néerlandais)zh_TWError when deleting the recording "%s".
+
+SQLite has returned error:
+%s.刪除錄製「%s」時發生錯誤。
+
+SQLite 回傳錯誤:
+%s。de_Video_VideoltWeb TV channels playerInternetinės televizijos grotuvasfrPlease enter the group's name !Veuillez remplir le nom du groupe !ru%ld bytes%ld байтltWeb TV (Azerbaijani)Internetinė televizija (Azerbaidžano)deCatalan Web TV and RadioKatalanisches Web TV und RadiotrNoneYokltWeb TV (Maltese)Internetinė televizija (Maltiečių)deWeb TV (Catalan)Internet-TV (katalanisch)zh_TW%02d:%02d:%02d%02d:%02d:%02dltWeb Radio (Arabic)Internetinė radija (Arabų)zh_TWWeb Radio (French)網路電台 (法語)zh_CNis playing正在播放tr<i>Restart the application after changing this option.</i><i>Bu seçeneği değiştirdikten sonra uygulamayı yeniden başlatın.</i>zh_CNError when displaying the channels.
+
+SQLite has returned error:
+%s.显示频道出错。
+
+SQLite 返回错误:
+%s.trHTTPHTTPzh_TWFormat:格式:zh_TWNew group新增群組
